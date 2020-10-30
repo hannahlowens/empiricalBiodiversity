@@ -4,5 +4,6 @@
 .Ruserdata
 
 # Remove private documents
-^Administration*
-^Papers*
+^Administration/$
+^Papers/$
+^data/$
