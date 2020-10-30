@@ -38,7 +38,7 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# Remove private documents
-^Administration/
-^Papers/
-^data/
+# Remove private directories
+Administration/
+Papers/
+data/
