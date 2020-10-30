@@ -39,6 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 # Remove private documents
-^Administration/$
-^Papers/$
-^data/$
+^Administration/
+^Papers/
+^data/
