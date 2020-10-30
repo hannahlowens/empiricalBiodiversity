@@ -1,0 +1,1218 @@
+EschmeyerName,OBISChecklist,FBName,GBIFnames,GBIF Synonym,SplitFrom,SplitYear,Group,Notes,fbATLPresent,OBIS_atlPresent,fbOBagree,isAtlantic
+Acanthocybium solandri,Acanthocybium solandri,Acanthocybium solandri,Acanthocybium solandri,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Allothunnus fallai,Allothunnus fallai,Allothunnus fallai,Allothunnus fallai,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Amarsipus carlsbergi,Amarsipus carlsbergi,Amarsipus carlsbergi,Amarsipus carlsbergi,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Aphanopus arigato,Aphanopus arigato,Aphanopus arigato,Aphanopus arigato,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Aphanopus beckeri,Aphanopus beckeri,Aphanopus beckeri,"Aphanopus beckeri Parin, 1994",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Aphanopus capricornis,Aphanopus capricornis,Aphanopus capricornis,"Aphanopus capricornis Parin, 1994",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Aphanopus carbo,Aphanopus carbo,Aphanopus carbo,Aphanopus carbo,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Aphanopus intermedius,Aphanopus intermedius,Aphanopus intermedius,Aphanopus intermedius,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Aphanopus microphthalmus,NA,Aphanopus microphthalmus,"Aphanopus microphthalmus Norman, 1939",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Aphanopus mikhailini,NA,Aphanopus mikhailini,Aphanopus mikhailini,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Ariomma bondi,Ariomma bondi,Ariomma bondi,Ariomma bondi,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Ariomma bondi,Cubiceps nigriargentus,Ariomma bondi,Ariomma bondi,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Ariomma brevimanus,Ariomma brevimanum,Ariomma brevimanum,Ariomma brevimanus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Ariomma dollfusi,Ariomma dollfusi,Ariomma indicum,"Ariomma dollfusi (Chabanaud, 1930)",NA,NA,NA,S,,TRUE,FALSE,FALSE,FALSE
+Ariomma indicum,Ariomma indicum,Ariomma indicum,Ariomma indicum,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Ariomma luridum,Ariomma luridum,Ariomma luridum,Ariomma luridum,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Ariomma melana,Cubiceps melanus,Ariomma melana,"Ariomma melana (Ginsburg, 1954)",NA,NA,NA,S,,NA,FALSE,NA,TRUE
+Ariomma melana,Ariomma melanum,Ariomma melanum,"Ariomma melana (Ginsburg, 1954)",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Ariomma parini,Ariomma parini,Ariomma parini,"Ariomma parini Piotrovsky, 1987",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Ariomma regulus,Ariomma regulus,Ariomma regulus,"Ariomma regulus (Poey, 1868)",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Arripis georgiana,Arripis georgianus,Arripis georgianus,"Arripis georgianus Valenciennes, 1831",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Arripis trutta,Arripis trutta,Arripis trutta,Arripis trutta,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Arripis truttacea,Arripis truttacea,Arripis truttacea,Arripis truttacea,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Arripis xylabion,Arripis xylabion,Arripis xylabion,Arripis xylabion,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Arripis xylabion,Assurger anzac,Assurger anzac,Arripis xylabion,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Auxis thazard,Auxis brachydorax,Auxis brachydorax,Auxis thazard,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Auxis rochei,Auxis eudorax,Auxis eudorax,Auxis rochei,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Auxis rochei,Auxis rochei,Auxis rochei,Auxis rochei,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Auxis thazard,Auxis thazard,Auxis thazard,Auxis thazard,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Benthodesmus elongatus,Benthodesmus elongatus,Benthodesmus elongatus,Benthodesmus elongatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Benthodesmus macrophthalmus,Benthodesmus macrophthalmus,Benthodesmus macrophthalmus,"Benthodesmus macrophthalmus Parin & Becker, 1970",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Benthodesmus neglectus,Benthodesmus neglectus,Benthodesmus neglectus,"Benthodesmus neglectus Parin, 1976",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Benthodesmus oligoradiatus,Benthodesmus oligoradiatus,Benthodesmus oligoradiatus,"Benthodesmus oligoradiatus Parin & Becker, 1970",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Benthodesmus pacificus,Benthodesmus pacificus,Benthodesmus pacificus,Benthodesmus pacificus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Benthodesmus papua,Benthodesmus papua,Benthodesmus papua,"Benthodesmus papua Parin, 1978",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Benthodesmus simonyi,Benthodesmus simonyi,Benthodesmus simonyi,Benthodesmus simonyi,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Benthodesmus suluensis,Benthodesmus suluensis,Benthodesmus suluensis,"Benthodesmus suluensis Parin, 1976",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Benthodesmus tenuis,Benthodesmus tenuis,Benthodesmus tenuis,Benthodesmus tenuis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Benthodesmus tuckeri,Benthodesmus tuckeri,Benthodesmus tuckeri,"Benthodesmus tuckeri Parin & Becker, 1970",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Benthodesmus vityazi,Benthodesmus vityazi,Benthodesmus vityazi,"Benthodesmus vityazi Parin & Becker, 1970",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Brama australis,Brama australis,Brama australis,Brama australis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Brama brama,Brama brama,Brama brama,Brama brama,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Brama caribbea,Brama caribbea,Brama caribbea,Brama caribbea,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Brama dussumieri,Brama dussumieri,Brama dussumieri,Brama dussumieri,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Brama japonica,Brama japonica,Brama japonica,Brama japonica,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Brama myersi,Brama myersi,Brama myersi,"Brama myersi Mead, 1972",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Brama orcini,Brama orcini,Brama orcini,Brama orcini,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Brama pauciradiata,Brama pauciradiata,Brama pauciradiata,"Brama pauciradiata Moteki, Fujita & Last, 1995",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Caristius barsukovi,NA,Caristius barsukovi,"Caristius barsukovi Kukuev, Parin & Trunov, 2013",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Caristius digitus,Caristius digitus,Caristius digitus,"Caristius digitus Stevenson & Kenaley, 2013",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Caristius fasciatus,Caristius fasciatus,Caristius fasciatus,Caristius fasciatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Caristius macropus,Caristius japonicus,Caristius japonicus,Caristius macropus,Caristius japonicus,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Caristius litvinovi,NA,Caristius litvinovi,"Caristius litvinovi Kukuev, Parin & Trunov, 2013",NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Caristius macropus,Caristius macropus,Caristius macropus,Caristius macropus,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Caristius meridionalis,Caristius meridionalis,Caristius meridionalis,Caristius meridionalis,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Caristius walvisensis,NA,Caristius walvisensis,"Caristius walvisensis Kukuev, Parin & Trunov, 2013",NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Centrolophus niger,Centrolophus niger,Centrolophus niger,Centrolophus niger,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Chiasmodon asper,NA,Chiasmodon asper,Chiasmodon asper,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Chiasmodon braueri,Chiasmodon braueri,Chiasmodon braueri,Chiasmodon braueri,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Chiasmodon harteli,Chiasmodon harteli,Chiasmodon harteli,"Chiasmodon harteli Melo, 2009",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Chiasmodon microcephalus,Chiasmodon microcephalus,Chiasmodon microcephalus,Chiasmodon microcephalus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Chiasmodon niger,Chiasmodon niger,Chiasmodon niger,Chiasmodon niger,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Chiasmodon lavenbergi,Chiasmodon lavenbergi,Chiasmodon pluriradiatus,"Chiasmodon lavenbergi Prokofiev, 2008",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Chiasmodon pluriradiatus,Chiasmodon pluriradiatus,Chiasmodon pluriradiatus,"Chiasmodon pluriradiatus Parr, 1933",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Chiasmodon subniger,Chiasmodon subniger,Chiasmodon subniger,Chiasmodon subniger,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Cubiceps baxteri,Cubiceps baxteri,Cubiceps baxteri,Cubiceps baxteri,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Cubiceps caeruleus,Cubiceps caeruleus,Cubiceps caeruleus,Cubiceps caeruleus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Cubiceps capensis,Cubiceps capensis,Cubiceps capensis,Cubiceps capensis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Cubiceps gracilis,Cubiceps gracilis,Cubiceps gracilis,Cubiceps gracilis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Cubiceps kotlyari,Cubiceps kotlyari,Cubiceps kotlyari,"Cubiceps kotlyari Agafonova, 1988",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Cubiceps macrolepis,NA,Cubiceps macrolepis,"Cubiceps macrolepis Agafonova, 1988",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Cubiceps nanus,NA,Cubiceps nanus,"Cubiceps nanus Agafonova, 1988",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Cubiceps paradoxus,Cubiceps paradoxus,Cubiceps paradoxus,Cubiceps paradoxus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Cubiceps pauciradiatus,Cubiceps pauciradiatus,Cubiceps pauciradiatus,Cubiceps pauciradiatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Cubiceps whiteleggii,Cubiceps natalensis,Cubiceps whiteleggii,Cubiceps whiteleggii,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Cubiceps whiteleggii,Cubiceps whiteleggii,Cubiceps whiteleggii,Cubiceps whiteleggii,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Cybiosarda elegans,Cybiosarda elegans,Cybiosarda elegans,Cybiosarda elegans,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Demissolinea novaeguineensis,NA,Demissolinea novaeguineensis,"Demissolinea novaeguineensis Burhanuddin & Iwatsuki, 2003",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Demissolinea novaeguineensis,Diplospinus multistriatus,Diplospinus multistriatus,"Demissolinea novaeguineensis Burhanuddin & Iwatsuki, 2003",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Dysalotus alcocki,Dysalotus alcocki,Dysalotus alcocki,Dysalotus alcocki,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Dysalotus oligoscolus,Dysalotus oligoscolus,Dysalotus oligoscolus,Dysalotus oligoscolus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Epinnula magistralis,Epinnula magistralis,Epinnula magistralis,Epinnula magistralis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Eumegistus brevorti,Eumegistus brevorti,Eumegistus brevorti,Eumegistus brevorti,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Eumegistus illustris,Eumegistus illustris,Eumegistus illustris,Eumegistus illustris,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Eupleurogrammus glossodon,Eupleurogrammus glossodon,Eupleurogrammus glossodon,"Eupleurogrammus glossodon (Bleeker, 1860)",NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Eupleurogrammus muticus,Eupleurogrammus muticus,Eupleurogrammus muticus,Eupleurogrammus muticus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Euthynnus affinis,Euthynnus affinis,Euthynnus affinis,Euthynnus affinis,NA,NA,NA,S,,TRUE,FALSE,FALSE,FALSE
+Euthynnus alletteratus,Euthynnus alletteratus,Euthynnus alletteratus,Euthynnus alletteratus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Euthynnus lineatus,Euthynnus lineatus,Euthynnus lineatus,Euthynnus lineatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Euthynnus lineatus,NA,Evoxymetopon macrophthalmus,Euthynnus lineatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Evoxymetopon moricheni,NA,Evoxymetopon moricheni,"Evoxymetopon moricheni Fricke, Golani & Appelbaum-Golani, 2014",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Evoxymetopon poeyi,Evoxymetopon poeyi,Evoxymetopon poeyi,Evoxymetopon poeyi,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Evoxymetopon taeniatus,Evoxymetopon taeniatus,Evoxymetopon taeniatus,Evoxymetopon taeniatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Gasterochisma melampus,Gasterochisma melampus,Gasterochisma melampus,Gasterochisma melampus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Gempylus serpens,Gempylus serpens,Gempylus serpens,Gempylus serpens,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Grammatorcynus bicarinatus,Grammatorcynus bicarinatus,Grammatorcynus bicarinatus,Grammatorcynus bicarinatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Grammatorcynus bilineatus,Grammatorcynus bilineatus,Grammatorcynus bilineatus,Grammatorcynus bilineatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Gymnosarda unicolor,Gymnosarda unicolor,Gymnosarda unicolor,Gymnosarda unicolor,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Hyperoglyphe antarctica,Hyperoglyphe antarctica,Hyperoglyphe antarctica,Hyperoglyphe antarctica,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Hyperoglyphe bythites,Hyperoglyphe bythites,Hyperoglyphe bythites,Hyperoglyphe bythites,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Hyperoglyphe japonica,Hyperoglyphe japonica,Hyperoglyphe japonica,Hyperoglyphe japonica,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Hyperoglyphe macrophthalma,Hyperoglyphe macrophthalma,Hyperoglyphe macrophthalma,"Hyperoglyphe macrophthalma (Miranda Ribeiro, 1915)",NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Hyperoglyphe perciformis,Hyperoglyphe perciformis,Hyperoglyphe perciformis,Hyperoglyphe perciformis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Hyperoglyphe pringlei,Hyperoglyphe pringlei,Hyperoglyphe pringlei,Hyperoglyphe pringlei,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pseudoicichthys australis,Icichthys australis,Icichthys australis,Pseudoicichthys australis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Icichthys lockingtoni,Icichthys lockingtoni,Icichthys lockingtoni,Icichthys lockingtoni,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Icosteus aenigmaticus,Icosteus aenigmaticus,Icosteus aenigmaticus,Icosteus aenigmaticus,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Kali colubrina,Kali colubrina,Kali colubrina,Kali colubrina,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Kali falx,NA,Kali falx,Kali falx,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Kali indica,Kali indica,Kali indica,Kali indica,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Kali kerberti,Kali kerberti,Kali kerberti,Kali kerberti,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Kali macrodon,Kali macrodon,Kali macrodon,Kali macrodon,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Kali macrura,Kali macrura,Kali macrura,Kali macrura,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Kali parri,Kali parri,Kali parri,Kali parri Johnson & Cohen,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Katsuwonus pelamis,Gymnosarda pelamis,Katsuwonus pelamis,Katsuwonus pelamis,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Katsuwonus pelamis,Katsuwonus pelamis,Katsuwonus pelamis,Katsuwonus pelamis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Lepidocybium flavobrunneum,Lepidocybium flavobrunneum,Lepidocybium flavobrunneum,Lepidocybium flavobrunneum,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Lepidopus altifrons,Lepidopus altifrons,Lepidopus altifrons,Lepidopus altifrons,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Lepidopus calcar,Lepidopus calcar,Lepidopus calcar,"Lepidopus calcar Parin & Mikhailin, 1982",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Lepidopus caudatus,Lepidopus caudatus,Lepidopus caudatus,Lepidopus caudatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Lepidopus dubius,Lepidopus dubius,Lepidopus dubius,Lepidopus dubius Parin & Mikhailin,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Lepidopus fitchi,Lepidopus fitchi,Lepidopus fitchi,Lepidopus fitchi,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Lepidopus manis,NA,Lepidopus manis,Lepidopus manis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Lepturacanthus pantului,Lepturacanthus pantului,Lepturacanthus pantului,"Lepturacanthus pantului (Gupta, 1966)",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Lepturacanthus roelandti,NA,Lepturacanthus roelandti,Lepturacanthus roelandti,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Lepturacanthus savala,Lepturacanthus savala,Lepturacanthus savala,Lepturacanthus savala,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Dysalotus pouliulii,NA,NA,Dysalotus pouliulii,NA,NA,NA,S,,NA,FALSE,NA,FALSE
+Epinnula pacifica,NA,NA,Epinnula pacifica Ho & Motomura & Hata & Jiang 2017,NA,NA,NA,S,,NA,FALSE,NA,FALSE
+Pampus candidus,NA,NA,NA,NA,NA,NA,S,,NA,FALSE,NA,FALSE
+Pampus nozawae,NA,NA,Pampus nozawae,NA,NA,NA,S,,NA,FALSE,NA,FALSE
+Nealotus tripes,Nealotus tripes,Nealotus tripes,Nealotus tripes,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Neocaristius heemstrai,Neocaristius heemstrai,Neocaristius heemstrai,Neocaristius heemstrai,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Neoepinnula americana,Neoepinnula americana,Neoepinnula americana,Neoepinnula americana,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Neoepinnula orientalis,Neoepinnula orientalis,Neoepinnula orientalis,Neoepinnula orientalis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Nesiarchus nasutus,Nesiarchus nasutus,Nesiarchus nasutus,Nesiarchus nasutus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Nomeus gronovii,Nomeus gronovii,Nomeus gronovii,Nomeus gronovii,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Orcynopsis unicolor,Orcynopsis unicolor,Orcynopsis unicolor,Orcynopsis unicolor,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pampus argenteus,Pampus argenteus,Pampus argenteus,Pampus argenteus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Pampus chinensis,Pampus chinensis,Pampus chinensis,Pampus chinensis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pampus cinereus,Pampus argenteus,Pampus cinereus,Pampus cinereus,NA,NA,NA,S,,NA,FALSE,NA,FALSE
+Pampus argenteus,Pampus echinogaster,Pampus echinogaster,Pampus argenteus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pampus minor,NA,Pampus minor,Pampus minor,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pampus punctatissimus,Pampus punctatissimus,Pampus punctatissimus,Pampus punctatissimus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Paracaristius aquilus,NA,Paracaristius aquilus,Paracaristius aquilus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Paracaristius maderensis,Paracaristius maderensis,Paracaristius maderensis,Paracaristius maderensis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Paracaristius maderensis,NA,Paracaristius nemorosus,Paracaristius maderensis,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Paracaristius nudarcus,Paracaristius nudarcus,Paracaristius nudarcus,Paracaristius nudarcus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Paradiplospinus antarcticus,Paradiplospinus antarcticus,Paradiplospinus antarcticus,Paradiplospinus antarcticus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Paradiplospinus gracilis,NA,Paradiplospinus gracilis,Paradiplospinus gracilis,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Peprilus burti,Peprilus burti,Peprilus burti,Peprilus burti,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Peprilus crenulatus,NA,Peprilus crenulatus,Peprilus crenulatus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Peprilus medius,Peprilus medius,Peprilus medius,Peprilus medius,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Peprilus ovatus,Peprilus ovatus,Peprilus ovatus,Peprilus ovatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Peprilus paru,Peprilus paru,Peprilus paru,Peprilus paru,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Peprilus simillimus,Peprilus simillimus,Peprilus simillimus,Peprilus simillimus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Peprilus snyderi,Peprilus snyderi,Peprilus snyderi,Peprilus snyderi,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Peprilus triacanthus,Peprilus triacanthus,Peprilus triacanthus,Peprilus triacanthus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Peprilus xanthurus,NA,Peprilus xanthurus,Peprilus xanthurus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Platyberyx andriashevi,Platyberyx andriashevi,Platyberyx andriashevi,Platyberyx andriashevi,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Platyberyx mauli,NA,Platyberyx mauli,"Platyberyx mauli Kukuev, Parin & Trunov, 2012",NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Platyberyx opalescens,Platyberyx opalescens,Platyberyx opalescens,Platyberyx opalescens,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Platyberyx paucus,NA,Platyberyx paucus,"Platyberyx paucus Stevenson & Kenaley, 2013",NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Platyberyx pietschi,NA,Platyberyx pietschi,Platyberyx pietschi,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Platyberyx rhyton,Platyberyx rhyton,Platyberyx rhyton,"Platyberyx rhyton Stevenson & Kenaley, 2013",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pomatomus saltatrix,Pomatomus saltatrix,Pomatomus saltatrix,Pomatomus saltatrix,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Promethichthys prometheus,Promethichthys prometheus,Promethichthys prometheus,Promethichthys prometheus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Psenes arafurensis,Psenes arafurensis,Psenes arafurensis,Psenes arafurensis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Psenes cyanophrys,Psenes cyanophrys,Psenes cyanophrys,Psenes cyanophrys,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Psenes maculatus,Psenes maculatus,Psenes maculatus,Psenes maculatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Psenes pellucidus,Psenes pellucidus,Psenes pellucidus,Psenes pellucidus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Psenes sio,Psenes sio,Psenes sio,Psenes sio,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Psenopsis anomala,Psenopsis anomala,Psenopsis anomala,Psenopsis anomala,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Psenopsis cyanea,Psenopsis cyanea,Psenopsis cyanea,Psenopsis cyanea,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Psenopsis humerosus,Psenopsis humerosa,Psenopsis humerosa,"Psenopsis humerosa Munro, 1958",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Psenopsis intermedia,Psenopsis intermedia,Psenopsis intermedia,"Psenopsis intermedia Piotrovsky, 1987",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Psenopsis obscura,Psenopsis obscura,Psenopsis obscura,Psenopsis obscura,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Psenopsis shojimai,NA,Psenopsis shojimai,Psenopsis shojimai,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudocaranx chilensis,Pseudocaranx chilensis,Pseudocaranx chilensis,Pseudocaranx chilensis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudocaranx dentex,Pseudocaranx dentex,Pseudocaranx dentex,Pseudocaranx dentex,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pseudocaranx dinjerra,Pseudocaranx dinjerra,Pseudocaranx dinjerra,Pseudocaranx dinjerra,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudocaranx wrighti,Pseudocaranx wrighti,Pseudocaranx wrighti,Pseudocaranx wrighti,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Psenopsis shojimai,Pseudoscopelus altipinnis,Pseudoscopelus altipinnis,Psenopsis shojimai,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pseudoscopelus aphos,Pseudoscopelus aphos,Pseudoscopelus aphos,Pseudoscopelus aphos,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pseudoscopelus astronesthidens,NA,Pseudoscopelus astronesthidens,Pseudoscopelus astronesthidens,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Pseudoscopelus australis,Pseudoscopelus australis,Pseudoscopelus australis,Pseudoscopelus australis,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Pseudoscopelus bothrorrhinos,NA,Pseudoscopelus bothrorrhinos,Pseudoscopelus bothrorrhinos,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus cephalus,Pseudoscopelus cephalus,Pseudoscopelus cephalus,Pseudoscopelus cephalus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus cordilluminatus,NA,Pseudoscopelus cordilluminatus,Pseudoscopelus cordilluminatus,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Pseudoscopelus lavenbergi,Pseudoscopelus lavenbergi,Pseudoscopelus lavenbergi,Pseudoscopelus lavenbergi,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus obtusifrons,Pseudoscopelus obtusifrons,Pseudoscopelus obtusifrons,Pseudoscopelus obtusifrons,NA,NA,NA,S,,FALSE,TRUE,FALSE,TRUE
+Pseudoscopelus odontoglossus,Pseudoscopelus odontoglossum,Pseudoscopelus odontoglossum,"Pseudoscopelus odontoglossum Melo, 2010",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus parini,NA,Pseudoscopelus parini,Pseudoscopelus parini,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus vityazi,NA,Pseudoscopelus parini,"Pseudoscopelus vityazi Prokofiev & Kukuev, 2008",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus paxtoni,Pseudoscopelus paxtoni,Pseudoscopelus paxtoni,"Pseudoscopelus paxtoni Melo, 2010",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus obtusifrons,NA,Pseudoscopelus pierbartus,Pseudoscopelus obtusifrons,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Pseudoscopelus sagamianus,Pseudoscopelus sagamianus,Pseudoscopelus sagamianus,Pseudoscopelus sagamianus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Pseudoscopelus scriptus,Pseudoscopelus scriptus,Pseudoscopelus scriptus,Pseudoscopelus scriptus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pseudoscopelus scutatus,Pseudoscopelus scutatus,Pseudoscopelus scutatus,Pseudoscopelus scutatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pteraclis aesticola,Pteraclis aesticola,Pteraclis aesticola,Pteraclis aesticola,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Pteraclis carolinum,Pteraclis carolinus,Pteraclis carolinus,"Pteraclis carolinus Valenciennes, 1833",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pteraclis veliferum,Pteraclis velifera,Pteraclis velifera,"Pteraclis vellifera (Pallas, 1770)",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pterycombus brama,Pterycombus brama,Pterycombus brama,Pterycombus brama,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Pterycombus petersii,Pterycombus petersii,Pterycombus petersii,Pterycombus petersii,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Rastrelliger brachysoma,Rastrelliger brachysoma,Rastrelliger brachysoma,Rastrelliger brachysoma,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rastrelliger faughni,Rastrelliger faughni,Rastrelliger faughni,Rastrelliger faughni,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rastrelliger kanagurta,Rastrelliger kanagurta,Rastrelliger kanagurta,Rastrelliger kanagurta,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Rexea alisae,Rexea alisae,Rexea alisae,Rexea alisae infrasp. roberts,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rexea antefurcata,Rexea antefurcata,Rexea antefurcata,Rexea antefurcata,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rexea bengalensis,NA,Rexea bengalensis,Rexea bengalensis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rexea brevilineata,Rexea brevilineata,Rexea brevilineata,Rexea brevilineata,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rexea nakamurai,NA,Rexea nakamurai,Rexea nakamurai,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rexea prometheoides,NA,Rexea prometheoides,Rexea prometheoides,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rexea solandri,Rexea solandri,Rexea solandri,Rexea solandri,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Rexichthys johnpaxtoni,Rexichthys johnpaxtoni,Rexichthys johnpaxtoni,"Rexichthys johnpaxtoni Parin & Astakhov, 1987",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Ruvettus pretiosus,Ruvettus pretiosus,Ruvettus pretiosus,Ruvettus pretiosus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Sarda australis,Sarda australis,Sarda australis,Sarda australis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Sarda chiliensis,NA,Sarda chiliensis,Sarda chiliensis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Sarda chiliensis,Sarda lineolata,Sarda lineolata,Sarda chiliensis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Sarda orientalis,NA,Sarda orientalis,Sarda orientalis,NA,NA,NA,S,,TRUE,FALSE,FALSE,FALSE
+Sarda sarda,Sarda sarda,Sarda sarda,Sarda sarda,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Seriolella caerulea,Schedophilus griseolineatus,Schedophilus griseolineatus,Seriolella caerulea,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Schedophilus haedrichi,Schedophilus haedrichi,Schedophilus haedrichi,Schedophilus haedrichi,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Schedophilus huttoni,Schedophilus huttoni,Schedophilus huttoni,Schedophilus huttoni,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Schedophilus maculatus,Schedophilus maculatus,Schedophilus maculatus,Schedophilus maculatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Schedophilus medusophagus,Schedophilus medusophagus,Schedophilus medusophagus,Schedophilus medusophagus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Schedophilus ovalis,Schedophilus ovalis,Schedophilus ovalis,Schedophilus ovalis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Schedophilus pemarco,Schedophilus pemarco,Schedophilus pemarco,"Schedophilus pemarco (Poll, 1959)",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Schedophilus velaini,Schedophilus velaini,Schedophilus velaini,Schedophilus velaini,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomber australasicus,Scomber australasicus,Scomber australasicus,Scomber australasicus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomber colias,Scomber colias,Scomber colias,Scomber colias,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomber japonicus,Scomber japonicus,Scomber japonicus,Scomber japonicus,NA,NA,NA,S,,FALSE,TRUE,FALSE,TRUE
+Scomber scombrus,Scomber scombrus,Scomber scombrus,Scomber scombrus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomberomorus brasiliensis,Scomberomorus brasiliensis,Scomberomorus brasiliensis,Scomberomorus brasiliensis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomberomorus cavalla,Scomberomorus cavalla,Scomberomorus cavalla,Scomberomorus cavalla,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomberomorus commerson,Scomberomorus commerson,Scomberomorus commerson,Scomberomorus commerson,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomberomorus concolor,Scomberomorus concolor,Scomberomorus concolor,Scomberomorus concolor,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus guttatus,Scomberomorus guttatus,Scomberomorus guttatus,Scomberomorus guttatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus koreanus,Scomberomorus koreanus,Scomberomorus koreanus,Scomberomorus koreanus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus lineolatus,Scomberomorus lineolatus,Scomberomorus lineolatus,"Scomberomorus lineolatus Cuvier, 1829",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus maculatus,Scomberomorus maculatus,Scomberomorus maculatus,Scomberomorus maculatus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomberomorus multiradiatus,Scomberomorus multiradiatus,Scomberomorus multiradiatus,"Scomberomorus multiradiatus Munro, 1964",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus munroi,Scomberomorus munroi,Scomberomorus munroi,Scomberomorus munroi,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus niphonius,Scomberomorus niphonius,Scomberomorus niphonius,Scomberomorus niphonius,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus plurilineatus,Scomberomorus plurilineatus,Scomberomorus plurilineatus,Scomberomorus plurilineatus,NA,NA,NA,S,,TRUE,FALSE,FALSE,FALSE
+Scomberomorus queenslandicus,Scomberomorus queenslandicus,Scomberomorus queenslandicus,Scomberomorus queenslandicus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus regalis,Scomberomorus regalis,Scomberomorus regalis,Scomberomorus regalis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scomberomorus semifasciatus,Scomberomorus semifasciatus,Scomberomorus semifasciatus,Scomberomorus semifasciatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus sierra,Scomberomorus sierra,Scomberomorus sierra,Scomberomorus sierra,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus sinensis,Scomberomorus sinensis,Scomberomorus sinensis,Scomberomorus sinensis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scomberomorus tritor,Scomberomorus tritor,Scomberomorus tritor,Scomberomorus tritor,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scombrolabrax heterolepis,Scombrolabrax heterolepis,Scombrolabrax heterolepis,Scombrolabrax heterolepis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scombrops boops,Scombrops boops,Scombrops boops,Scombrops boops,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Scombrops gilberti,Scombrops gilberti,Scombrops gilberti,Scombrops gilberti,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Scombrops oculatus,Scombrops oculatus,Scombrops oculatus,"Scombrops oculatus (Poey, 1860)",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Seriolella brama,Seriolella brama,Seriolella brama,Seriolella brama,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Seriolella caerulea,Seriolella caerulea,Seriolella caerulea,Seriolella caerulea,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Seriolella porosa,Seriolella porosa,Seriolella porosa,Seriolella porosa,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Seriolella punctata,Seriolella punctata,Seriolella punctata,Seriolella punctata,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Seriolella caerulea,Seriolella tinro,Seriolella tinro,Seriolella caerulea,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Seriolella violacea,Seriolella violacea,Seriolella violacea,"Seriolella violacea Guichenot, 1848",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Stromateus brasiliensis,Stromateus brasiliensis,Stromateus brasiliensis,Stromateus brasiliensis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Stromateus fiatola,Stromateus fiatola,Stromateus fiatola,Stromateus fiatola,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Stromateus stellatus,Stromateus stellatus,Stromateus stellatus,Stromateus stellatus,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Taractes asper,Taractes asper,Taractes asper,Taractes asper,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Taractes rubescens,Taractes rubescens,Taractes rubescens,Taractes rubescens,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Taractichthys longipinnis,Taractichthys longipinnis,Taractichthys longipinnis,Taractichthys longipinnis,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Taractichthys steindachneri,Taractichthys steindachneri,Taractichthys steindachneri,Taractichthys steindachneri,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Tentoriceps cristatus,Tentoriceps cristatus,Tentoriceps cristatus,Tentoriceps cristatus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Tetragonurus atlanticus,Tetragonurus atlanticus,Tetragonurus atlanticus,Tetragonurus atlanticus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Tetragonurus cuvieri,Tetragonurus cuvieri,Tetragonurus cuvieri,Tetragonurus cuvieri,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Tetragonurus pacificus,Tetragonurus pacificus,Tetragonurus pacificus,Tetragonurus pacificus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Thunnus alalunga,Thunnus alalunga,Thunnus alalunga,Thunnus alalunga,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Thunnus albacares,Thunnus albacares,Thunnus albacares,Thunnus albacares,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Thunnus atlanticus,Thunnus atlanticus,Thunnus atlanticus,Thunnus atlanticus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Thunnus maccoyii,Thunnus maccoyii,Thunnus maccoyii,Thunnus maccoyii,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Thunnus obesus,Thunnus obesus,Thunnus obesus,Thunnus obesus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Thunnus orientalis,Thunnus orientalis,Thunnus orientalis,Thunnus orientalis,NA,NA,NA,S,,FALSE,TRUE,FALSE,FALSE
+Thunnus thynnus,Thunnus thynnus,Thunnus thynnus,Thunnus thynnus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Thunnus tonggol,Thunnus tonggol,Thunnus tonggol,Thunnus tonggol,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Leionura atun,Thyrsites atun,Thyrsites atun,Leionura atun,NA,NA,NA,S,,TRUE,FALSE,FALSE,TRUE
+Thyrsitoides marleyi,Thyrsitoides marleyi,Thyrsitoides marleyi,Thyrsitoides marleyi,NA,NA,NA,S,,TRUE,FALSE,FALSE,FALSE
+Thyrsites lepidopodea,Thyrsitops lepidopoides,Thyrsitops lepidopoides,"Thyrsites lepidopodea Lesson, 1831",NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Tongaichthys robustus,Tongaichthys robustus,Tongaichthys robustus,"Tongaichthys robustus Nakamura & Fujii, 1983",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus auriga,Trichiurus auriga,Trichiurus auriga,Trichiurus auriga,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus australis,Trichiurus australis,Trichiurus australis,"Trichiurus australis Chakraborty, Burhanuddin & Iwatsuki, 2005",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus brevis,NA,Trichiurus brevis,Trichiurus brevis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus gangeticus,Trichiurus gangeticus,Trichiurus gangeticus,Trichiurus gangeticus,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus lepturus,Trichiurus lepturus,Trichiurus lepturus,Trichiurus lepturus,NA,NA,NA,S,,TRUE,TRUE,TRUE,TRUE
+Trichiurus margarites,NA,Trichiurus margarites,"Trichiurus margarites Li, 1992",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus nanhaiensis,Trichiurus nanhaiensis,Trichiurus nanhaiensis,Trichiurus nanhaiensis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus nickolensis,Trichiurus nickolensis,Trichiurus nickolensis,"Trichiurus nickolensis Burhanuddin & Iwatsuki, 2003",NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Trichiurus russelli,Trichiurus russelli,Trichiurus russelli,Trichiurus russelli,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Tubbia stewarti,Tubbia stewarti,Tubbia stewarti,Tubbia stewarti,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Tubbia tasmanica,Tubbia tasmanica,Tubbia tasmanica,Tubbia tasmanica,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Xenobrama microlepis,Xenobrama microlepis,Xenobrama microlepis,Xenobrama microlepis,NA,NA,NA,S,,FALSE,FALSE,TRUE,FALSE
+Albatrossia pectoralis,Albatrossia pectoralis,Albatrossia pectoralis,Albatrossia pectoralis,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Antimora microlepis,Antimora microlepis,Antimora microlepis,Antimora microlepis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Antimora rostrata,Antimora rostrata,Antimora rostrata,Antimora rostrata,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Arctogadus borisovi,Arctogadus borisovi,Arctogadus glacialis,Arctogadus borisovi,NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Arctogadus glacialis,Arctogadus glacialis,Arctogadus glacialis,Arctogadus glacialis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Asthenomacrurus fragilis,Asthenomacrurus fragilis,Asthenomacrurus fragilis,"Asthenomacrurus fragilis (Garman, 1899)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Asthenomacrurus victoris,Asthenomacrurus victoris,Asthenomacrurus victoris,"Asthenomacrurus victoris Sazonov & Shcherbachev, 1982",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Auchenoceros punctatus,Auchenoceros punctatus,Auchenoceros punctatus,Auchenoceros punctatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus antrodes,Bathygadus antrodes,Bathygadus antrodes,Bathygadus antrodes,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus bowersi,Bathygadus bowersi,Bathygadus bowersi,"Bathygadus bowersi (Gilbert, 1905)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus cottoides,Bathygadus cottoides,Bathygadus cottoides,Bathygadus cottoides,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bathygadus dubiosus,Bathygadus dubiosus,Bathygadus dubiosus,"Bathygadus dubiosus Weber, 1913",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus entomelas,Bathygadus entomelas,Bathygadus entomelas,Bathygadus entomelas,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus favosus,Bathygadus favosus,Bathygadus favosus,Bathygadus favosus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bathygadus furvescens,Bathygadus furvescens,Bathygadus furvescens,"Bathygadus furvescens Alcock, 1894",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus garretti,Bathygadus garretti,Bathygadus garretti,Bathygadus garretti,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus macrops,Bathygadus macrops,Bathygadus macrops,Bathygadus macrops,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bathygadus melanobranchus,Bathygadus melanobranchus,Bathygadus melanobranchus,Bathygadus melanobranchus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bathygadus nipponicus,Bathygadus nipponicus,Bathygadus nipponicus,Bathygadus nipponicus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus spongiceps,Bathygadus spongiceps,Bathygadus spongiceps,Bathygadus spongiceps Gilbert & Hubbs,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bathygadus sulcatus,Bathygadus sulcatus,Bathygadus sulcatus,"Bathygadus sulcatus (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Boreogadus saida,Boreogadus saida,Boreogadus saida,Boreogadus saida,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bregmaceros arabicus,Bregmaceros arabicus,Bregmaceros arabicus,Bregmaceros arabicus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bregmaceros atlanticus,Bregmaceros atlanticus,Bregmaceros atlanticus,Bregmaceros atlanticus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bregmaceros bathymaster,Bregmaceros bathymaster,Bregmaceros bathymaster,Bregmaceros bathymaster,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bregmaceros cantori,Bregmaceros cantori,Bregmaceros cantori,Bregmaceros cantori,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bregmaceros cayorum,NA,Bregmaceros cayorum,"Bregmaceros cayorum Nichols, 1952",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Bregmaceros houdei,Bregmaceros houdei,Bregmaceros houdei,Bregmaceros houdei,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bregmaceros japonicus,Bregmaceros japonicus,Bregmaceros japonicus,Bregmaceros japonicus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bregmaceros lanceolatus,Bregmaceros lanceolatus,Bregmaceros lanceolatus,Bregmaceros lanceolatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bregmaceros mcclellandi,Bregmaceros mcclellandi,Bregmaceros mcclellandi,"Bregmaceros mcclellandi Thompson, 1840",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bregmaceros nectabanus,Bregmaceros nectabanus,Bregmaceros nectabanus,Bregmaceros nectabanus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Bregmaceros neonectabanus,NA,Bregmaceros neonectabanus,Bregmaceros neonectabanus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bregmaceros nectabanus,Bregmaceros pescadorus,Bregmaceros pescadorus,Bregmaceros nectabanus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bregmaceros pseudolanceolatus,Bregmaceros pseudolanceolatus,Bregmaceros pseudolanceolatus,Bregmaceros pseudolanceolatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Bregmaceros rarisquamosus,Bregmaceros rarisquamosus,Bregmaceros rarisquamosus,"Bregmaceros rarisquamosus Munro, 1950",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Brosme brosme,Brosme brosme,Brosme brosme,Brosme brosme,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Cetonurichthys subinflatus,Cetonurichthys subinflatus,Cetonurichthys subinflatus,"Cetonurichthys subinflatus Sazonov & Shcherbachev, 1982",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Cetonurus crassiceps,Cetonurus crassiceps,Cetonurus crassiceps,Cetonurus crassiceps,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Cetonurus globiceps,Cetonurus globiceps,Cetonurus globiceps,Cetonurus globiceps,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ciliata mustela,Ciliata mustela,Ciliata mustela,Ciliata mustela,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ciliata septentrionalis,Ciliata septentrionalis,Ciliata septentrionalis,Ciliata septentrionalis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ciliata tchangi,NA,Ciliata tchangi,"Ciliata tchangi Li, 1994",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus acanthiger,Coelorinchus acanthiger,Coelorinchus acanthiger,Coelorinchus acanthiger,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus acantholepis,Coelorinchus acantholepis,Coelorinchus acantholepis,"Coelorinchus acantholepis Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus aconcagua,Coelorinchus aconcagua,Coelorinchus aconcagua,Coelorinchus aconcagua,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus acutirostris,Coelorinchus acutirostris,Coelorinchus acutirostris,"Coelorinchus acutirostris Smith & Radcliffe, 1912",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus amirantensis,NA,Coelorinchus amirantensis,Coelorinchus amirantensis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus amydrozosterus,Coelorinchus amydrozosterus,Coelorinchus amydrozosterus,"Coelorinchus amydrozosterus Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus anatirostris,Coelorinchus anatirostris,Coelorinchus anatirostris,Coelorinchus anatirostris,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus anisacanthus,NA,Coelorinchus anisacanthus,"Coelorinchus anisacanthus Sazonov, 1994",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus aratrum,Coelorinchus aratrum,Coelorinchus aratrum,Coelorinchus aratrum,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus argentatus,Coelorinchus argentatus,Coelorinchus argentatus,"Coelorinchus argentatus Smith & Radcliffe, 1912",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus argus,Coelorinchus argus,Coelorinchus argus,"Coelorinchus argus Weber, 1913",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus aspercephalus,Coelorinchus aspercephalus,Coelorinchus aspercephalus,Coelorinchus aspercephalus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus asteroides,Coelorinchus asteroides,Coelorinchus asteroides,Coelorinchus asteroides,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus australis,Coelorinchus australis,Coelorinchus australis,Coelorinchus australis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus biclinozonalis,Coelorinchus biclinozonalis,Coelorinchus biclinozonalis,Coelorinchus biclinozonalis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus bollonsi,Coelorinchus bollonsi,Coelorinchus bollonsi,Coelorinchus bollonsi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus braueri,Coelorinchus braueri,Coelorinchus braueri,Coelorinchus braueri,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus brevirostris,Coelorinchus brevirostris,Coelorinchus brevirostris,Coelorinchus brevirostris,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Macrurus carminatus,Coelorinchus carminatus,Coelorinchus caelorhincus,Macrurus carminatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus caelorhincus,Coelorinchus caelorhincus,Coelorinchus caelorhincus,Coelorinchus caelorhincus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus campbellicus,Coelorinchus campbellicus,Coelorinchus campbellicus,"Coelorinchus campbellicus McCann & McKnight, 1980",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus canus,Coelorinchus canus,Coelorinchus canus,Coelorinchus canus,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coelorinchus caribbaeus,Coelorinchus caribbaeus,Coelorinchus caribbaeus,Coelorinchus caribbaeus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus carinifer,Coelorinchus carinifer,Coelorinchus carinifer,"Coelorinchus carinifer Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus caudani,Coelorinchus caudani,Coelorinchus caudani,"Coelorinchus caudani (Köhler, 1896)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus celaenostomus,Coelorinchus celaenostomus,Coelorinchus celaenostomus,Coelorinchus celaenostomus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus charius,Coelorinchus charius,Coelorinchus charius,"Coelorinchus charius Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus chilensis,Coelorinchus chilensis,Coelorinchus chilensis,"Coelorinchus chilensis Gilbert & Thompson, 1916",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coelorinchus cingulatus,Coelorinchus cingulatus,Coelorinchus cingulatus,Coelorinchus cingulatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus commutabilis,Coelorinchus commutabilis,Coelorinchus commutabilis,Coelorinchus commutabilis Yatou,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus cookianus,Coelorinchus cookianus,Coelorinchus cookianus,"Coelorinchus cookianus McCann & McKnight, 1980",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus cylindricus,Coelorinchus cylindricus,Coelorinchus cylindricus,"Coelorinchus cylindricus Iwamoto & Merrett, 1997",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus denticulatus,Coelorinchus denticulatus,Coelorinchus denticulatus,Coelorinchus denticulatus,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coelorinchus divergens,Coelorinchus divergens,Coelorinchus divergens,Coelorinchus divergens,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus dorsalis,Coelorinchus dorsalis,Coelorinchus dorsalis,"Coelorinchus dorsalis Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus doryssus,Coelorinchus doryssus,Coelorinchus doryssus,Coelorinchus doryssus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus fasciatus,Coelorinchus fasciatus,Coelorinchus fasciatus,Coelorinchus fasciatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus flabellispinnis,Coelorinchus flabellispinnis,Coelorinchus flabellispinnis,Coelorinchus flabellispinnis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus formosanus,Coelorinchus formosanus,Coelorinchus formosanus,Coelorinchus formosanus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus fuscigulus,NA,Coelorinchus fuscigulus,Coelorinchus fuscigulus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus gaesorhynchus,Coelorinchus gaesorhynchus,Coelorinchus gaesorhynchus,"Coelorinchus gaesorhynchus Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus geronimo,Coelorinchus geronimo,Coelorinchus geronimo,Coelorinchus geronimo,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus gilberti,Coelorinchus gilberti,Coelorinchus gilberti,Coelorinchus gilberti,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus gladius,Coelorinchus gladius,Coelorinchus gladius,Coelorinchus gladius,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus goobala,Coelorinchus goobala,Coelorinchus goobala,"Coelorinchus goobala Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus gormani,Coelorinchus gormani,Coelorinchus gormani,Coelorinchus gormani,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus hexafasciatus,Coelorinchus hexafasciatus,Coelorinchus hexafasciatus,"Coelorinchus hexafasciatus Okamura, 1982",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus hige,NA,Coelorinchus hige,"Coelorinchus hige Matsubara, 1943",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus hoangi,Coelorinchus hoangi,Coelorinchus hoangi,"Coelorinchus hoangi Iwamoto & Graham, 2008",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus horribilis,Coelorinchus horribilis,Coelorinchus horribilis,"Coelorinchus horribilis McMillan & Paulin, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus hubbsi,Coelorinchus hubbsi,Coelorinchus hubbsi,Coelorinchus hubbsi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus immaculatus,Coelorinchus immaculatus,Coelorinchus immaculatus,"Coelorinchus immaculatus Sazonov & Iwamoto, 1992",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus infuscus,Coelorinchus infuscus,Coelorinchus infuscus,"Coelorinchus infuscus McMillan & Paulin, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus innotabilis,Coelorinchus innotabilis,Coelorinchus innotabilis,Coelorinchus innotabilis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus japonicus,Coelorinchus japonicus,Coelorinchus japonicus,Coelorinchus japonicus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus jordani,Coelorinchus jordani,Coelorinchus jordani,Coelorinchus jordani,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus kaiyomaru,Coelorinchus kaiyomaru,Coelorinchus kaiyomaru,Coelorinchus kaiyomaru,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus kamoharai,Coelorinchus kamoharai,Coelorinchus kamoharai,Coelorinchus kamoharai,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus karrerae,Coelorinchus karrerae,Coelorinchus karrerae,"Coelorinchus karrerae Trunov, 1984",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus kermadecus,Coelorinchus kermadecus,Coelorinchus kermadecus,Coelorinchus kermadecus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus kishinouyei,Coelorinchus kishinouyei,Coelorinchus kishinouyei,Coelorinchus kishinouyei,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus labiatus,Coelorinchus labiatus,Coelorinchus labiatus,Coelorinchus labiatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus lasti,Coelorinchus lasti,Coelorinchus lasti,"Coelorinchus lasti Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus leptorhinus,Coelorinchus leptorhinus,Coelorinchus leptorhinus,Coelorinchus leptorhinus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus tokiensis,Coelorinchus tokiensis,Coelorinchus longicephalus,Coelorinchus tokiensis,NA,Coelorinchus tokiensis,1982,G,Split documented in ECoF,FALSE,FALSE,TRUE,FALSE
+Coelorinchus longissimus,Coelorinchus longissimus,Coelorinchus longissimus,Coelorinchus longissimus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus macrochir,Coelorinchus macrochir,Coelorinchus macrochir,Coelorinchus macrochir,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus macrolepis,Coelorinchus macrolepis,Coelorinchus macrolepis,"Coelorinchus macrolepis Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus macrorhynchus,Coelorinchus macrorhynchus,Coelorinchus macrorhynchus,"Coelorinchus macrorhynchus Smith & Radcliffe, 1912",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus maculatus,Coelorinchus maculatus,Coelorinchus maculatus,"Coelorinchus maculatus Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus marinii,Coelorinchus marinii,Coelorinchus marinii,Coelorinchus marinii,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus matamua,Coelorinchus matamua,Coelorinchus matamua,Coelorinchus matamua,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus matsubarai,NA,Coelorinchus matsubarai,"Coelorinchus matsubarai Okamura, 1982",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus maurofasciatus,Coelorinchus maurofasciatus,Coelorinchus maurofasciatus,"Coelorinchus maurofasciatus McMillan & Paulin, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus mayiae,Coelorinchus mayiae,Coelorinchus mayiae,"Coelorinchus mayiae Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus mediterraneus,Coelorinchus mediterraneus,Coelorinchus mediterraneus,"Coelorinchus mediterraneus Iwamoto & Ungaro, 2002",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus melanobranchus,Coelorinchus melanobranchus,Coelorinchus melanobranchus,"Coelorinchus melanobranchus Iwamoto & Merrett, 1997",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus melanosagmatus,Coelorinchus melanosagmatus,Coelorinchus melanosagmatus,"Coelorinchus melanosagmatus Iwamoto & Anderson, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus mirus,Coelorinchus mirus,Coelorinchus mirus,"Coelorinchus mirus McCulloch, 1926",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coelorinchus multifasciatus,Coelorinchus multifasciatus,Coelorinchus multifasciatus,"Coelorinchus multifasciatus Sazonov & Iwamoto, 1992",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus multispinulosus,Coelorinchus multispinulosus,Coelorinchus multispinulosus,Coelorinchus multispinulosus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus mycterismus,Coelorinchus mycterismus,Coelorinchus mycterismus,Coelorinchus mycterismus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus mystax,Coelorinchus mystax,Coelorinchus mystax,Coelorinchus mystax,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus nazcaensis,Coelorinchus nazcaensis,Coelorinchus nazcaensis,"Coelorinchus nazcaensis Sazonov & Iwamoto, 1992",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus notatus,Coelorinchus notatus,Coelorinchus notatus,"Coelorinchus notatus Smith & Radcliffe, 1912",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus obscuratus,Coelorinchus obscuratus,Coelorinchus obscuratus,Coelorinchus obscuratus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus occa,Coelorinchus occa,Coelorinchus occa,Coelorinchus occa,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus oliverianus,Coelorinchus oliverianus,Coelorinchus oliverianus,Coelorinchus oliverianus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus osipullus,Coelorinchus osipullus,Coelorinchus osipullus,Coelorinchus osipullus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus parallelus,Coelorinchus parallelus,Coelorinchus parallelus,Coelorinchus parallelus,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coelorinchus pardus,Coelorinchus pardus,Coelorinchus pardus,"Coelorinchus pardus Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus parvifasciatus,Coelorinchus parvifasciatus,Coelorinchus parvifasciatus,Coelorinchus parvifasciatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus platorhynchus,Coelorinchus platorhynchus,Coelorinchus platorhynchus,"Coelorinchus platorhynchus Smith & Radcliffe, 1912",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus polli,Coelorinchus polli,Coelorinchus polli,Coelorinchus polli,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus productus,Coelorinchus productus,Coelorinchus productus,Coelorinchus productus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus pseudoparallelus,Coelorinchus pseudoparallelus,Coelorinchus pseudoparallelus,"Coelorinchus pseudoparallelus Trunov, 1983",NA,NA,NA,G,,FALSE,TRUE,FALSE,TRUE
+Coelorinchus quadricristatus,Coelorinchus quadricristatus,Coelorinchus quadricristatus,"Coelorinchus quadricristatus (Alcock, 1891)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus quincunciatus,Coelorinchus quincunciatus,Coelorinchus quincunciatus,"Coelorinchus quincunciatus Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus radcliffei,Coelorinchus radcliffei,Coelorinchus radcliffei,"Coelorinchus radcliffei Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus scaphopsis,Coelorinchus scaphopsis,Coelorinchus scaphopsis,Coelorinchus scaphopsis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus semaphoreus,Coelorinchus semaphoreus,Coelorinchus semaphoreus,"Coelorinchus semaphoreus Iwamoto & Merrett, 1997",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus sereti,Coelorinchus sereti,Coelorinchus sereti,"Coelorinchus sereti Iwamoto & Merrett, 1997",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus sexradiatus,Coelorinchus sexradiatus,Coelorinchus sexradiatus,Coelorinchus sexradiatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus shcherbachevi,Coelorinchus shcherbachevi,Coelorinchus shcherbachevi,"Coelorinchus shcherbachevi Iwamoto & Merrett, 1997",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus sheni,Coelorinchus sheni,Coelorinchus sheni,"Coelorinchus sheni Chiou, Shao & Iwamoto, 2004",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus simorhynchus,Coelorinchus simorhynchus,Coelorinchus simorhynchus,Coelorinchus simorhynchus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus smithi,Coelorinchus smithi,Coelorinchus smithi,Coelorinchus smithi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus sparsilepis,NA,Coelorinchus sparsilepis,"Coelorinchus sparsilepis Okamura, 1984",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus spathulatus,Coelorinchus spathulatus,Coelorinchus spathulatus,Coelorinchus spathulatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus spilonotus,Coelorinchus spilonotus,Coelorinchus spilonotus,Coelorinchus spilonotus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus spinifer,Coelorinchus spinifer,Coelorinchus spinifer,"Coelorinchus spinifer Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus supernasutus,Coelorinchus supernasutus,Coelorinchus supernasutus,"Coelorinchus supernasutus McMillan & Paulin, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus thompsoni,Coelorinchus thompsoni,Coelorinchus thompsoni,"Coelorinchus thompsoni Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus thurla,Coelorinchus thurla,Coelorinchus thurla,"Coelorinchus thurla Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus tokiensis,Coelorinchus tokiensis,Coelorinchus tokiensis,Coelorinchus tokiensis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus trachycarus,Coelorinchus trachycarus,Coelorinchus trachycarus,Coelorinchus trachycarus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus triocellatus,Coelorinchus triocellatus,Coelorinchus triocellatus,"Coelorinchus triocellatus Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus trunovi,Coelorinchus trunovi,Coelorinchus trunovi,Coelorinchus trunovi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus velifer,Coelorinchus velifer,Coelorinchus velifer,Coelorinchus velifer,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus ventrilux,Coelorinchus ventrilux,Coelorinchus ventrilux,"Coelorinchus ventrilux Marshall & Iwamoto, 1973",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coelorinchus vityazae,Coelorinchus vityazae,Coelorinchus vityazae,"Coelorinchus vityazae Iwamoto, Shcherbachev & Marquardt, 2004",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus weberi,Coelorinchus weberi,Coelorinchus weberi,"Coelorinchus weberi Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coelorinchus yurii,NA,Coelorinchus yurii,Coelorinchus yurii,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides acrolepis,Coryphaenoides acrolepis,Coryphaenoides acrolepis,Coryphaenoides acrolepis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides affinis,NA,Coryphaenoides affinis,"Coryphaenoides affinis Günther, 1878",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Coryphaenoides alateralis,Coryphaenoides alateralis,Coryphaenoides alateralis,Coryphaenoides alateralis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides altipinnis,NA,Coryphaenoides altipennis,"Coryphaenoides altipinnis Günther, 1877",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides anguliceps,Coryphaenoides anguliceps,Coryphaenoides anguliceps,Coryphaenoides anguliceps,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides ariommus,Coryphaenoides ariommus,Coryphaenoides ariommus,Coryphaenoides ariommus,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coryphaenoides armatus,Coryphaenoides armatus,Coryphaenoides armatus,Coryphaenoides armatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides asper,Coryphaenoides asper,Coryphaenoides asper,Coryphaenoides asper,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides aequatoris,NA,Coryphaenoides asperellus,"Coryphaenoides aequatoris (Smith & Radcliffe, 1912)",NA,NA,NA,G,,NA,FALSE,NA,FALSE
+Coryphaenoides asprellus,Coryphaenoides asprellus,Coryphaenoides asprellus,"Coryphaenoides asprellus (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides boops,Coryphaenoides boops,Coryphaenoides boops,"Coryphaenoides boops (Garman, 1899)",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coryphaenoides brevibarbis,Coryphaenoides brevibarbis,Coryphaenoides brevibarbis,Coryphaenoides brevibarbis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides bucephalus,NA,Coryphaenoides bucephalus,"Coryphaenoides bucephalus (Garman, 1899)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides bulbiceps,Coryphaenoides bulbiceps,Coryphaenoides bulbiceps,"Coryphaenoides bulbiceps (Garman, 1899)",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coryphaenoides camurus,Coryphaenoides camurus,Coryphaenoides camurus,"Coryphaenoides camurus (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides capito,Coryphaenoides capito,Coryphaenoides capito,Coryphaenoides capito,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coryphaenoides carapinus,Coryphaenoides carapinus,Coryphaenoides carapinus,Coryphaenoides carapinus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides carminifer,Coryphaenoides carminifer,Coryphaenoides carminifer,Coryphaenoides carminifer,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coryphaenoides castaneus,NA,Coryphaenoides castaneus,Coryphaenoides castaneus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides cinereus,Coryphaenoides cinereus,Coryphaenoides cinereus,Coryphaenoides cinereus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides delsolari,Coryphaenoides delsolari,Coryphaenoides delsolari,Coryphaenoides delsolari,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coryphaenoides dossenus,Coryphaenoides dossenus,Coryphaenoides dossenus,Coryphaenoides dossenus,NA,NA,NA,G,,FALSE,TRUE,FALSE,TRUE
+Coryphaenoides dubius,Coryphaenoides dubius,Coryphaenoides dubius,"Coryphaenoides dubius (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides fernandezianus,Coryphaenoides fernandezianus,Coryphaenoides fernandezianus,"Coryphaenoides fernandezianus (Günther, 1887)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides ferrieri,Coryphaenoides ferrieri,Coryphaenoides ferrieri,Coryphaenoides ferrieri,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides filamentosus,NA,Coryphaenoides filamentosus,"Coryphaenoides filamentosus Okamura, 1970",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides filicauda,Coryphaenoides filicauda,Coryphaenoides filicauda,"Coryphaenoides filicauda Günther, 1878",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides filiferus,Coryphaenoides filifer,Coryphaenoides filifer,"Coryphaenoides filifera (Gilbert, 1896)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides grahami,Coryphaenoides grahami,Coryphaenoides grahami,Coryphaenoides grahami,NA,NA,NA,G,,TRUE,FALSE,FALSE,FALSE
+Coryphaenoides guentheri,Coryphaenoides guentheri,Coryphaenoides guentheri,Coryphaenoides guentheri,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides gypsochilus,Coryphaenoides gypsochilus,Coryphaenoides gypsochilus,Coryphaenoides gypsochilus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides hextii,Coryphaenoides hextii,Coryphaenoides hextii,"Coryphaenoides hextii (Alcock, 1890)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides hoskynii,NA,Coryphaenoides hoskynii,"Coryphaenoides hoskynii (Alcock, 1890)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides lecointei,Coryphaenoides lecointei,Coryphaenoides lecointei,Coryphaenoides lecointei,NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Coryphaenoides leptolepis,Coryphaenoides leptolepis,Coryphaenoides leptolepis,Coryphaenoides leptolepis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides liocephalus,Coryphaenoides liocephalus,Coryphaenoides liocephalus,"Coryphaenoides liocephalus (Günther, 1887)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides longicirrhus,Coryphaenoides longicirrhus,Coryphaenoides longicirrhus,"Coryphaenoides longicirrhus (Gilbert, 1905)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides longifilis,Coryphaenoides longifilis,Coryphaenoides longifilis,Coryphaenoides longifilis,NA,NA,NA,G,,FALSE,TRUE,FALSE,TRUE
+Coryphaenoides macrolophus,Coryphaenoides macrolophus,Coryphaenoides macrolophus,"Coryphaenoides macrolophus (Alcock, 1889)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides marginatus,Coryphaenoides marginatus,Coryphaenoides marginatus,Coryphaenoides marginatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides marshalli,Coryphaenoides marshalli,Coryphaenoides marshalli,Coryphaenoides marshalli,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides mcmillani,Coryphaenoides mcmillani,Coryphaenoides mcmillani,Coryphaenoides mcmillani,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides mediterraneus,Coryphaenoides mediterraneus,Coryphaenoides mediterraneus,Coryphaenoides mediterraneus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides mexicanus,Coryphaenoides mexicanus,Coryphaenoides mexicanus,Coryphaenoides mexicanus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides microps,Coryphaenoides microps,Coryphaenoides microps,Coryphaenoides microps,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides microstomus,Coryphaenoides microstomus,Coryphaenoides microstomus,Coryphaenoides microstomus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides murrayi,Coryphaenoides murrayi,Coryphaenoides murrayi,Coryphaenoides murrayi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides myersi,Coryphaenoides myersi,Coryphaenoides myersi,Coryphaenoides myersi,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Coryphaenoides nasutus,Coryphaenoides nasutus,Coryphaenoides nasutus,Coryphaenoides nasutus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides oreinos,Coryphaenoides oreinos,Coryphaenoides oreinos,"Coryphaenoides oreinos Iwamoto & Sazonov, 1988",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides orthogrammus,Coryphaenoides orthogrammus,Coryphaenoides orthogrammus,"Coryphaenoides orthogrammus (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides paramarshalli,Coryphaenoides paramarshalli,Coryphaenoides paramarshalli,Coryphaenoides paramarshalli,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides profundicolus,Coryphaenoides profundicolus,Coryphaenoides profundicolus,Coryphaenoides profundicolus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides rudis,Coryphaenoides rudis,Coryphaenoides rudis,Coryphaenoides rudis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides rupestris,Coryphaenoides rupestris,Coryphaenoides rupestris,Coryphaenoides rupestris,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides semiscaber,Coryphaenoides semiscaber,Coryphaenoides semiscaber,Coryphaenoides semiscaber,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides serrulatus,Coryphaenoides serrulatus,Coryphaenoides serrulatus,Coryphaenoides serrulatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides sibogae,NA,Coryphaenoides sibogae,"Coryphaenoides sibogae Weber & de Beaufort, 1929",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides soyoae,NA,Coryphaenoides soyoae,"Coryphaenoides soyoae Nakayama & Endo, 2016",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides acrolepis,Coryphaenoides spinulosus,Coryphaenoides spinulosus,Coryphaenoides acrolepis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides striaturus,Coryphaenoides striaturus,Coryphaenoides striaturus,Coryphaenoides striaturus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides subserrulatus,Coryphaenoides subserrulatus,Coryphaenoides subserrulatus,Coryphaenoides subserrulatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides thelestomus,Coryphaenoides thelestomus,Coryphaenoides thelestomus,"Coryphaenoides thelestomus Maul, 1951",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Coryphaenoides tydemani,Coryphaenoides tydemani,Coryphaenoides tydemani,"Coryphaenoides tydemani (Weber, 1913)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides woodmasoni,Coryphaenoides woodmasoni,Coryphaenoides woodmasoni,"Coryphaenoides woodmasoni (Alcock, 1890)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides yaquinae,Coryphaenoides yaquinae,Coryphaenoides yaquinae,Coryphaenoides yaquinae,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Coryphaenoides zaniophorus,Coryphaenoides zaniophorus,Coryphaenoides zaniophorus,Coryphaenoides zaniophorus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Cynomacrurus piriei,Cynomacrurus piriei,Cynomacrurus piriei,Cynomacrurus piriei,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Echinomacrurus mollis,Echinomacrurus mollis,Echinomacrurus mollis,"Echinomacrurus mollis Roule, 1916",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Pseudonezumia occidentalis,Echinomacrurus occidentalis,Echinomacrurus occidentalis,NA,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Eeyorius hutchinsi,Eeyorius hutchinsi,Eeyorius hutchinsi,"Eeyorius hutchinsi Paulin, 1986",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Eleginus gracilis,Eleginus gracilis,Eleginus gracilis,Eleginus gracilis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Eleginus nawaga,Eleginus nawaga,Eleginus nawaga,"Eleginus nawaga (Walbaum, 1792)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Enchelyopus cimbrius,Enchelyopus cimbrius,Enchelyopus cimbrius,Enchelyopus cimbrius,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Eretmophorus kleinenbergi,Eretmophorus kleinenbergi,Eretmophorus kleinenbergi,"Eretmophorus kleinenbergi Giglioli, 1889",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Euclichthys polynemus,Euclichthys polynemus,Euclichthys polynemus,Euclichthys polynemus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella brocca,Gadella brocca,Gadella brocca,Gadella brocca,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella dancoheni,Gadella dancoheni,Gadella dancoheni,"Gadella dancoheni Sazonov & Shcherbachev, 2000",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella edelmanni,Gadella edelmanni,Gadella edelmanni,"Gadella edelmanni (Brauer, 1906)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella filifer,Gadella filifer,Gadella filifer,"Gadella filifer (Garman, 1899)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella imberbis,Gadella imberbis,Gadella imberbis,Gadella imberbis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadella jordani,Gadella jordani,Gadella jordani,Gadella jordani,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella macrura,Gadella macrura,Gadella macrura,"Gadella macrura Sazonov & Shcherbachev, 2000",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella maraldi,Gadella maraldi,Gadella maraldi,"Gadella maraldi (Risso, 1810)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadella molokaiensis,Gadella molokaiensis,Gadella molokaiensis,"Gadella molokaiensis Paulin, 1989",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella jordani,Gadella norops,Gadella norops,Gadella jordani,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella obscurus,Gadella obscurus,Gadella obscurus,"Gadella obscurus (Parin, 1984)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadella svetovidovi,NA,Gadella svetovidovi,"Gadella svetovidovi Trunov, 1992",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Gadella thysthlon,Gadella thysthlon,Gadella thysthlon,Gadella thysthlon,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadiculus argenteus,Gadiculus argenteus,Gadiculus argenteus,Gadiculus argenteus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadiculus argenteus,Gadiculus thori,Gadiculus thori,Gadiculus argenteus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadomus aoteanus,Gadomus aoteanus,Gadomus aoteanus,Gadomus aoteanus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus arcuatus,Gadomus arcuatus,Gadomus arcuatus,Gadomus arcuatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadomus capensis,Gadomus capensis,Gadomus capensis,"Gadomus capensis (Gilchrist & von Bonde, 1924)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadomus colletti,Gadomus colletti,Gadomus colletti,Gadomus colletti,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus denticulatus,Gadomus denticulatus,Gadomus denticulatus,Gadomus denticulatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus dispar,Gadomus dispar,Gadomus dispar,Gadomus dispar,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadomus filamentosus,Gadomus filamentosus,Gadomus filamentosus,"Gadomus filamentosus (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus introniger,Gadomus introniger,Gadomus introniger,Gadomus introniger,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus longifilis,Gadomus longifilis,Gadomus longifilis,Gadomus longifilis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadomus magnifilis,Gadomus magnifilis,Gadomus magnifilis,Gadomus magnifilis Gilbert & Hubbs,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus melanopterus,Gadomus melanopterus,Gadomus melanopterus,Gadomus melanopterus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus multifilis,Gadomus multifilis,Gadomus multifilis,"Gadomus multifilis (Günther, 1887)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadomus pepperi,Gadomus pepperi,Gadomus pepperi,"Gadomus pepperi Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Gadus chalcogrammus,Gadus chalcogrammus,Gadus chalcogrammus,Gadus chalcogrammus,NA,NA,NA,G,,FALSE,TRUE,FALSE,TRUE
+Gadus macrocephalus,Gadus macrocephalus,Gadus macrocephalus,Gadus macrocephalus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gadus morhua,Gadus morhua,Gadus morhua,Gadus morhua,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus argentatus,Gaidropsarus argentatus,Gaidropsarus argentatus,Gaidropsarus argentatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus macrophthalmus,Gaidropsarus biscayensis,Gaidropsarus biscayensis,Gaidropsarus macrophthalmus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus capensis,Gaidropsarus capensis,Gaidropsarus capensis,"Gaidropsarus capensis (Kaup, 1858)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus ensis,Gaidropsarus ensis,Gaidropsarus ensis,Gaidropsarus ensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus granti,Gaidropsarus granti,Gaidropsarus granti,Gaidropsarus granti,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus mediterraneus,Gaidropsarus guttatus,Gaidropsarus guttatus,Gaidropsarus mediterraneus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus insularum,Gaidropsarus insularum,Gaidropsarus insularum,"Gaidropsarus insularum Sivertsen, 1945",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus macrophthalmus,Gaidropsarus macrophthalmus,Gaidropsarus macrophthalmus,Gaidropsarus macrophthalmus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus mediterraneus,Gaidropsarus mediterraneus,Gaidropsarus mediterraneus,Gaidropsarus mediterraneus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Gaidropsarus novaezealandiae,Gaidropsarus novaezealandiae,Gaidropsarus novaezealandiae,Gaidropsarus novaezealandiae,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Gaidropsarus pakhorukovi,NA,Gaidropsarus pakhorukovi,"Gaidropsarus pakhorukovi Shcherbachev, 1995",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Gaidropsarus parini,Gaidropsarus parini,Gaidropsarus parini,"Gaidropsarus parini Svetovidov, 1986",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Gaidropsarus vulgaris,Gaidropsarus vulgaris,Gaidropsarus vulgaris,Gaidropsarus vulgaris,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Guttigadus globiceps,Guttigadus globiceps,Guttigadus globiceps,Guttigadus globiceps,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Guttigadus globosus,Guttigadus globosus,Guttigadus globosus,"Guttigadus globosus (Paulin, 1986)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Guttigadus kongi,Guttigadus kongi,Guttigadus kongi,Guttigadus kongi,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Guttigadus latifrons,Guttigadus latifrons,Guttigadus latifrons,Guttigadus latifrons,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Guttigadus nudicephalus,Guttigadus nudicephalus,Guttigadus nudicephalus,Guttigadus nudicephalus,NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Guttigadus nudirostre,NA,Guttigadus nudirostre,"Guttigadus nudirostre (Trunov, 1990)",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Guttigadus squamirostris,NA,Guttigadus squamirostre,Guttigadus squamirostre,NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Halargyreus johnsonii,Halargyreus johnsonii,Halargyreus johnsonii,Halargyreus johnsonii,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Haplomacrourus nudirostris,Haplomacrourus nudirostris,Haplomacrourus nudirostris,"Haplomacrourus nudirostris Trunov, 1980",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Hymenocephalus aeger,Hymenocephalus aeger,Hymenocephalus aeger,Hymenocephalus aeger Gilbert & Hubbs 1920,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus antraeus,Hymenocephalus antraeus,Hymenocephalus antraeus,Hymenocephalus antraeus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus aterrimus,Hymenocephalus aterrimus,Hymenocephalus aterrimus,Hymenocephalus aterrimus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Hymenocephalus barbatulus,NA,Hymenocephalus barbatulus,"Hymenocephalus barbatulus Gilbert & Hubbs, 1920",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus billsam,Hymenocephalus billsam,Hymenocephalus billsam,Hymenocephalus billsam,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Hymenocephalus fuscus,Hymenocephalus fuscus,Hymenocephalus fuscus,Hymenocephalus fuscus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus grimaldii,Hymenocephalus grimaldii,Hymenocephalus grimaldii,Hymenocephalus grimaldii,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus hachijoensis,Hymenocephalus hachijoensis,Hymenocephalus hachijoensis,"Hymenocephalus hachijoensis Okamura, 1970",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus heterolepis,Hymenocephalus heterolepis,Hymenocephalus heterolepis,"Hymenocephalus heterolepis (Alcock, 1889)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus italicus,Hymenocephalus italicus,Hymenocephalus italicus,Hymenocephalus italicus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Hymenocephalus iwamotoi,NA,Hymenocephalus iwamotoi,"Hymenocephalus iwamotoi Schwarzhans, 2014",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus lethonemus,Hymenocephalus lethonemus,Hymenocephalus lethonemus,Hymenocephalus lethonemus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus longibarbis,Hymenocephalus longibarbis,Hymenocephalus longibarbis,Hymenocephalus longibarbis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus longiceps,Hymenocephalus longiceps,Hymenocephalus longiceps,Hymenocephalus longiceps,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus longipes,Hymenocephalus longipes,Hymenocephalus longipes,Hymenocephalus longipes,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus maculicaudus,Hymenocephalus maculicaudus,Hymenocephalus maculicaudus,Hymenocephalus maculicaudus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus megalops,Hymenocephalus megalops,Hymenocephalus megalops,Hymenocephalus megalops,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus nascens,Hymenocephalus nascens,Hymenocephalus nascens,Hymenocephalus nascens,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus neglectissimus,Hymenocephalus neglectissimus,Hymenocephalus neglectissimus,Hymenocephalus neglectissimus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus nesaeae,Hymenocephalus nesaeae,Hymenocephalus nesaeae,Hymenocephalus nesaeae merrett,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus papyraceus,NA,Hymenocephalus papyraceus,Hymenocephalus papyraceus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus punt,NA,Hymenocephalus punt,Hymenocephalus punt,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus sazonovi,NA,Hymenocephalus sazonovi,"Hymenocephalus sazonovi Schwarzhans, 2014",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus semipellucidus,Hymenocephalus semipellucidus,Hymenocephalus semipellucidus,Hymenocephalus semipellucidus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus striatissimus,Hymenocephalus striatissimus,Hymenocephalus striatissimus,Hymenocephalus striatissimus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus striatulus,Hymenocephalus striatulus,Hymenocephalus striatulus,Hymenocephalus striatulus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus torvus,Hymenocephalus torvus,Hymenocephalus torvus,Hymenocephalus torvus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenocephalus yamasakiorum,NA,Hymenocephalus yamasakiorum,"Hymenocephalus yamasakiorum Nakayama, Endo & Schwarzhans, 2015",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Hymenogadus gracilis,Hymenogadus gracilis,Hymenogadus gracilis,Hymenogadus gracilis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Hymenocephalus tenuis,Hymenocephalus tenuis,Hymenogadus tenuis,Hymenocephalus tenuis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Idiolophorhynchus andriashevi,Idiolophorhynchus andriashevi,Idiolophorhynchus andriashevi,Idiolophorhynchus andriashevi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kumba calvifrons,NA,Kumba calvifrons,"Kumba calvifrons Iwamoto & Sazonov, 1994",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Kumba dentoni,NA,Kumba dentoni,"Kumba dentoni Marshall, 1973",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Kumba gymnorhynchus,Kumba gymnorhynchus,Kumba gymnorhynchus,Kumba gymnorhynchus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kumba hebetata,Kumba hebetata,Kumba hebetata,"Kumba hebetata (Gilbert, 1905)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kumba japonica,Kumba japonica,Kumba japonica,"Kumba japonica (Matsubara, 1943)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kumba maculisquama,NA,Kumba maculisquama,"Kumba maculisquama (Trunov, 1981)",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Kumba musorstom,Kumba musorstom,Kumba musorstom,Kumba musorstom,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kumba punctulata,Kumba punctulata,Kumba punctulata,Kumba punctulata,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kuronezumia bubonis,Kuronezumia bubonis,Kuronezumia bubonis,"Kuronezumia bubonis (Iwamoto, 1974)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Kuronezumia leonis,Kuronezumia leonis,Kuronezumia leonis,"Kuronezumia leonis (Barnard, 1925)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Kuronezumia macronema,Kuronezumia macronema,Kuronezumia macronema,"Kuronezumia macronema (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kuronezumia paepkei,Kuronezumia paepkei,Kuronezumia paepkei,"Kuronezumia paepkei Shcherbachev, Sazonov & Iwamoto, 1992",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Kuronezumia pallida,Kuronezumia pallida,Kuronezumia pallida,"Kuronezumia pallida Sazonov & Iwamoto, 1992",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema barbatulum,Laemonema barbatulum,Laemonema barbatulum,Laemonema barbatulum,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Laemonema compressicauda,Laemonema compressicauda,Laemonema compressicauda,"Laemonema compressicauda (Gilchrist, 1903)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Laemonema filodorsale,Laemonema filodorsale,Laemonema filodorsale,"Laemonema filodorsale Okamura, 1982",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema goodebeanorum,Laemonema goodebeanorum,Laemonema goodebeanorum,Laemonema goodebeanorum,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Laemonema gracillipes,Laemonema gracillipes,Laemonema gracillipes,"Laemonema gracillipes Garman, 1899",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema laureysi,Laemonema laureysi,Laemonema laureysi,Laemonema laureysi,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Laemonema longipes,Laemonema longipes,Laemonema longipes,Laemonema longipes,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema macronema,Laemonema macronema,Laemonema macronema,Laemonema macronema infrasp. melendez,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema melanurum,Laemonema melanurum,Laemonema melanurum,"Laemonema melanurum Goode & Bean, 1896",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Laemonema modestum,Laemonema modestum,Laemonema modestum,"Laemonema modestum (Franz, 1910)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Guttigadus nana,Laemonema nana,Laemonema nana,"Guttigadus nana (Taki, 1953)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Guttigadus nana,NA,Laemonema nana,"Guttigadus nana (Taki, 1953)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema rhodochir,Laemonema rhodochir,Laemonema rhodochir,Laemonema rhodochir,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema robustum,Laemonema robustum,Laemonema robustum,Laemonema robustum,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Laemonema verecundum,Laemonema verecundum,Laemonema verecundum,"Laemonema verecundum (Jordan & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Laemonema yarrellii,Laemonema yarrellii,Laemonema yarrellii,"Laemonema yarrellii (Lowe, 1838)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Laemonema yuvto,Laemonema yuvto,Laemonema yuvto,"Laemonema yuvto Parin & Sazonov, 1990",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lepidion capensis,Lepidion capensis,Lepidion capensis,Lepidion capensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lepidion capensis,Lepidion ensiferus,Lepidion ensiferus,Lepidion capensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lepidion lepidion,Lepidion eques,Lepidion eques,Lepidion lepidion,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lepidion guentheri,Lepidion guentheri,Lepidion guentheri,Lepidion guentheri,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lepidion inosimae,Lepidion inosimae,Lepidion inosimae,Lepidion inosimae,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lepidion lepidion,Lepidion lepidion,Lepidion lepidion,Lepidion lepidion,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lepidion microcephalus,Lepidion microcephalus,Lepidion microcephalus,Lepidion microcephalus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lepidion natalensis,Lepidion natalensis,Lepidion natalensis,Lepidion natalensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lepidion schmidti,Lepidion schmidti,Lepidion schmidti,Lepidion schmidti,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lepidorhynchus denticulatus,Lepidorhynchus denticulatus,Lepidorhynchus denticulatus,Lepidorhynchus denticulatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lota lota,Lota lota,Lota lota,Lota lota,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lotella fernandeziana,Lotella fernandeziana,Lotella fernandeziana,Lotella fernandeziana,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lotella phycis,Lotella phycis,Lotella phycis,Lotella phycis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lotella rhacina,Lotella rhacina,Lotella rhacina,Lotella rhacina,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lotella tosaensis,Lotella tosaensis,Lotella tosaensis,Lotella tosaensis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lucigadus acrolophus,Lucigadus acrolophus,Lucigadus acrolophus,Lucigadus acrolophus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lucigadus borealis,NA,Lucigadus borealis,Lucigadus borealis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lucigadus lucifer,Lucigadus lucifer,Lucigadus lucifer,"Lucigadus lucifer (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lucigadus microlepis,Lucigadus microlepis,Lucigadus microlepis,"Lucigadus microlepis (Günther, 1878)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lucigadus nigromaculatus,Lucigadus nigromaculatus,Lucigadus nigromaculatus,Lucigadus nigromaculatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lucigadus nigromarginatus,Lucigadus nigromarginatus,Lucigadus nigromarginatus,Lucigadus nigromarginatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lucigadus ori,Lucigadus ori,Lucigadus ori,Lucigadus ori,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lucigadus potronus,NA,Lucigadus potronus,"Lucigadus potronus (Pequeño, 1971)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Lyconodes argenteus,NA,Lyconodes argenteus,"Lyconodes argenteus Gilchrist, 1922",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Lyconus brachycolus,Lyconus brachycolus,Lyconus brachycolus,Lyconus brachycolus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Lyconus pinnatus,Lyconus pinnatus,Lyconus pinnatus,Lyconus pinnatus,NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Macrosmia phalacra,Macrosmia phalacra,Macrosmia phalacra,Macrosmia phalacra,NA,NA,NA,G,,FALSE,TRUE,FALSE,TRUE
+Macrouroides inflaticeps,Macrouroides inflaticeps,Macrouroides inflaticeps,Macrouroides inflaticeps,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Macrourus berglax,Macrourus berglax,Macrourus berglax,Macrourus berglax,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Macrourus caml,Macrourus caml,Macrourus caml,Macrourus caml,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Macrourus carinatus,Macrourus carinatus,Macrourus carinatus,Macrourus carinatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Macrourus holotrachys,Macrourus holotrachys,Macrourus holotrachys,Macrourus holotrachys,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Macrourus whitsoni,Macrourus whitsoni,Macrourus whitsoni,Macrourus whitsoni,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Macruronus novaezelandiae,Macruronus capensis,Macruronus capensis,Macruronus novaezelandiae,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Macruronus maderensis,NA,Macruronus maderensis,"Macruronus maderensis Maul, 1951",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Macruronus novaezelandiae,Macruronus magellanicus,Macruronus magellanicus,Macruronus novaezelandiae,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Macruronus novaezelandiae,Macruronus novaezelandiae,Macruronus novaezelandiae,Macruronus novaezelandiae,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Macruronus novaezelandiae,Malacocephalus boretzi,Malacocephalus boretzi,Macruronus novaezelandiae,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Malacocephalus laevis,Malacocephalus hawaiiensis,Malacocephalus hawaiiensis,Malacocephalus laevis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Malacocephalus laevis,Malacocephalus laevis,Malacocephalus laevis,Malacocephalus laevis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Malacocephalus luzonensis,Malacocephalus luzonensis,Malacocephalus luzonensis,Malacocephalus luzonensis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Malacocephalus laevis,Malacocephalus nipponensis,Malacocephalus nipponensis,Malacocephalus laevis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Malacocephalus occidentalis,Malacocephalus occidentalis,Malacocephalus occidentalis,Malacocephalus occidentalis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Malacocephalus okamurai,Malacocephalus okamurai,Malacocephalus okamurai,Malacocephalus okamurai Iwamoto & Arai,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Mataeocephalus acipenserinus,Mataeocephalus acipenserinus,Mataeocephalus acipenserinus,"Mataeocephalus acipenserinus (Gilbert & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Mataeocephalus adustus,Mataeocephalus adustus,Mataeocephalus adustus,Mataeocephalus adustus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Mataeocephalus cristatus,Mataeocephalus cristatus,Mataeocephalus cristatus,Mataeocephalus cristatus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Mataeocephalus hyostomus,Mataeocephalus hyostomus,Mataeocephalus hyostomus,"Mataeocephalus hyostomus (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Mataeocephalus kotlyari,Mataeocephalus kotlyari,Mataeocephalus kotlyari,Mataeocephalus kotlyari,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Mataeocephalus tenuicauda,Mataeocephalus tenuicauda,Mataeocephalus tenuicauda,"Mataeocephalus tenuicauda (Garman, 1899)",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Melanogrammus aeglefinus,Melanogrammus aeglefinus,Melanogrammus aeglefinus,Melanogrammus aeglefinus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Melanonus gracilis,Melanonus gracilis,Melanonus gracilis,Melanonus gracilis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Melanonus zugmayeri,Melanonus zugmayeri,Melanonus zugmayeri,Melanonus zugmayeri,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merlangius merlangus,Merlangius merlangus,Merlangius merlangus,Merlangius merlangus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius albidus,Merluccius albidus,Merluccius albidus,Merluccius albidus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius productus,Merluccius angustimanus,Merluccius angustimanus,Merluccius productus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Merluccius australis,Merluccius australis,Merluccius australis,Merluccius australis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius polylepis,Merluccius polylepis,Merluccius australis,Merluccius polylepis,NA,NA,NA,G,,TRUE,FALSE,FALSE,FALSE
+Merluccius bilinearis,Merluccius bilinearis,Merluccius bilinearis,Merluccius bilinearis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius capensis,Merluccius capensis,Merluccius capensis,Merluccius capensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius gayi,Merluccius gayi gayi,Merluccius gayi gayi,Merluccius gayi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Merluccius gayi,Merluccius gayi peruanus,Merluccius gayi peruanus,Merluccius gayi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Merluccius productus,Merluccius productus,Merluccius hernandezi,Merluccius productus,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Merluccius hubbsi,Merluccius hubbsi,Merluccius hubbsi,Merluccius hubbsi,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius merluccius,Merluccius merluccius,Merluccius merluccius,Merluccius merluccius,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius paradoxus,Merluccius paradoxus,Merluccius paradoxus,Merluccius paradoxus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius hubbsi,Merluccius patagonicus,Merluccius patagonicus,Merluccius hubbsi,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius polli,Merluccius polli,Merluccius polli,Merluccius polli,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius productus,Merluccius productus,Merluccius productus,Merluccius productus,NA,NA,NA,G,,FALSE,TRUE,FALSE,TRUE
+Merluccius senegalensis,Merluccius senegalensis,Merluccius senegalensis,Merluccius senegalensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Merluccius australis,Merluccius tasmanicus,Merluccius tasmanicus,Merluccius australis,NA,NA,NA,G,,TRUE,FALSE,FALSE,FALSE
+Mesobius antipodum,Mesobius antipodum,Mesobius antipodum,Mesobius antipodum,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Mesobius berryi,Mesobius berryi,Mesobius berryi,Mesobius berryi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Microgadus proximus,Microgadus proximus,Microgadus proximus,Microgadus proximus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Microgadus tomcod,Microgadus tomcod,Microgadus tomcod,Microgadus tomcod,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Micromesistius australis,Micromesistius australis,Micromesistius australis,Micromesistius australis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Micromesistius poutassou,Micromesistius poutassou,Micromesistius poutassou,Micromesistius poutassou,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Molva dypterygia,Molva dypterygia,Molva dypterygia,Molva dypterygia,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Molva macrophthalma,Molva macrophthalma,Molva macrophthalma,Molva macrophthalma,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Molva molva,Molva molva,Molva molva,Molva molva,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Mora moro,Mora moro,Mora moro,Mora moro,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Muraenolepis andriashevi,Muraenolepis andriashevi,Muraenolepis andriashevi,"Muraenolepis andriashevi Balushkin & Prirodina, 2005",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Muraenolepis evseenkoi,Muraenolepis evseenkoi,Muraenolepis evseenkoi,"Muraenolepis evseenkoi Balushkin & Prirodina, 2010",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Muraenolepis kuderskii,NA,Muraenolepis kuderskii,"Muraenolepis kuderskii Balushkin & Prirodina, 2007",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Muraenolepis marmorata,Muraenolepis marmorata,Muraenolepis marmorata,Muraenolepis marmorata,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Muraenolepis marmorata,Muraenolepis microps,Muraenolepis microps,Muraenolepis marmorata,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Muraenolepis orangiensis,Muraenolepis orangiensis,Muraenolepis orangiensis,Muraenolepis orangiensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Muraenolepis pacifica,NA,Muraenolepis pacifica,"Muraenolepis pacifica Prirodina & Balushkin, 2007",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Muraenolepis trunovi,NA,Muraenolepis trunovi,"Muraenolepis trunovi Balushkin & Prirodina, 2006",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Coelorinchus posteromaculatus,NA,NA,NA,NA,NA,NA,G,,NA,FALSE,NA,FALSE
+Coryphaenoides holotrachys,NA,NA,"Coryphaenoides holotrachys (Günther, 1878)",NA,NA,NA,G,,NA,FALSE,NA,TRUE
+Euclichthys microdorsalis,NA,NA,Euclichthys microdorsalis Last & Pogonoski 2020,NA,NA,NA,G,,NA,FALSE,NA,FALSE
+Euclichthys robertsi,NA,NA,Euclichthys robertsi Last & Pogonoski 2020,NA,NA,NA,G,,NA,FALSE,NA,FALSE
+Physiculus caboverdensis,NA,NA,"Physiculus caboverdensis González, Triay-Portella & Biscoito, 2018",NA,NA,NA,G,,NA,FALSE,NA,TRUE
+Physiculus cirm,NA,NA,Physiculus cirm Pires & Carvalho-Filho & Ferreira & Viana & Nunes & Hazin 2019,NA,NA,NA,G,,NA,FALSE,NA,TRUE
+Nezumia aequalis,Nezumia aequalis,Nezumia aequalis,Nezumia aequalis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia africana,Nezumia africana,Nezumia africana,"Nezumia africana (Iwamoto, 1970)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia aspidentata,Nezumia aspidentata,Nezumia aspidentata,"Nezumia aspidentata Iwamoto & Merrett, 1997",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia atlantica,Nezumia atlantica,Nezumia atlantica,"Nezumia atlantica (Parr, 1946)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia bairdii,Nezumia bairdii,Nezumia bairdii,Nezumia bairdii,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia brevibarbata,Nezumia brevibarbata,Nezumia brevibarbata,"Nezumia brevibarbata (Barnard, 1925)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia brevirostris,Nezumia brevirostris,Nezumia brevirostris,"Nezumia brevirostris (Alcock, 1889)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia burragei,Nezumia burragei,Nezumia burragei,"Nezumia burragei (Gilbert, 1905)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia cliveri,Nezumia cliveri,Nezumia cliveri,Nezumia cliveri,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia coheni,Nezumia coheni,Nezumia coheni,Nezumia coheni,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia condylura,Nezumia condylura,Nezumia condylura,Nezumia condylura,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia convergens,Nezumia convergens,Nezumia convergens,Nezumia convergens,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Nezumia cyrano,Nezumia cyrano,Nezumia cyrano,Nezumia cyrano Marshall & Iwamoto,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Kuronezumia dara,Nezumia darus,Nezumia darus,"Kuronezumia dara (Gilbert & Hubbs, 1916)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia duodecim,Nezumia duodecim,Nezumia duodecim,Nezumia duodecim,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia ectenes,Nezumia ectenes,Nezumia ectenes,"Nezumia ectenes (Gilbert & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia evides,Nezumia evides,Nezumia evides,"Nezumia evides (Gilbert & Hubbs, 1920)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia holocentra,Nezumia holocentra,Nezumia holocentra,"Nezumia holocentra (Gilbert & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia infranudis,Nezumia infranudis,Nezumia infranudis,"Nezumia infranudis (Gilbert & Hubbs, 1920)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia investigatoris,Nezumia investigatoris,Nezumia investigatoris,"Nezumia investigatoris (Alcock, 1889)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia kamoharai,NA,Nezumia kamoharai,"Nezumia kamoharai Okamura, 1970",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia kapala,Nezumia kapala,Nezumia kapala,Nezumia kapala,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia kensmithi,Nezumia kensmithi,Nezumia kensmithi,Nezumia kensmithi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia latirostrata,Nezumia latirostrata,Nezumia latirostrata,Nezumia latirostrata,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia leucoura,Nezumia leucoura,Nezumia leucoura,Nezumia leucoura,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia liolepis,Nezumia liolepis,Nezumia liolepis,Nezumia liolepis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia longebarbata,Nezumia longebarbata,Nezumia longebarbata,Nezumia longebarbata,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia loricata,Nezumia loricata,Nezumia loricata,"Nezumia loricata (Garman, 1899)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia merretti,Nezumia merretti,Nezumia merretti,"Nezumia merretti Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia micronychodon,Nezumia micronychodon,Nezumia micronychodon,Nezumia micronychodon,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia milleri,Nezumia milleri,Nezumia milleri,Nezumia milleri,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia namatahi,Nezumia namatahi,Nezumia namatahi,Nezumia namatahi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia obliquata,Nezumia obliquata,Nezumia obliquata,"Nezumia obliquata (Gilbert, 1905)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia orbitalis,Nezumia orbitalis,Nezumia orbitalis,"Nezumia orbitalis (Garman, 1899)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia parini,Nezumia parini,Nezumia parini,Nezumia parini,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia polylepis,NA,Nezumia polylepis,"Nezumia polylepis (Alcock, 1889)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia propinqua,Nezumia propinqua,Nezumia propinqua,"Nezumia propinqua (Gilbert & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia proxima,Nezumia proxima,Nezumia proxima,Nezumia proxima,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia pudens,Nezumia pudens,Nezumia pudens,Nezumia pudens,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Nezumia pulchella,Nezumia pulchella,Nezumia pulchella,"Nezumia pulchella (Pequeño, 1971)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia sclerorhynchus,Nezumia sclerorhynchus,Nezumia sclerorhynchus,Nezumia sclerorhynchus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia semiquincunciata,Nezumia semiquincunciata,Nezumia semiquincunciata,"Nezumia semiquincunciata (Alcock, 1889)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia shinoharai,Nezumia shinoharai,Nezumia shinoharai,Nezumia shinoharai,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia soela,Nezumia soela,Nezumia soela,"Nezumia soela Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia spinosa,Nezumia spinosa,Nezumia spinosa,"Nezumia spinosa (Gilbert & Hubbs, 1916)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia stelgidolepis,Nezumia stelgidolepis,Nezumia stelgidolepis,Nezumia stelgidolepis,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Nezumia stelgidolepis,Nezumia suilla,Nezumia suilla,Nezumia stelgidolepis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia tinro,Nezumia tinro,Nezumia tinro,"Nezumia tinro Sazonov, 1985",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia namatahi,Nezumia namatahi,Nezumia toi,Nezumia namatahi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia tomiyamai,NA,Nezumia tomiyamai,"Nezumia tomiyamai (Okamura, 1963)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia umbracincta,Nezumia umbracincta,Nezumia umbracincta,Nezumia umbracincta,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Nezumia ventralis,Nezumia ventralis,Nezumia ventralis,Nezumia ventralis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Nezumia wularnia,Nezumia wularnia,Nezumia wularnia,"Nezumia wularnia Iwamoto & Williams, 1999",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Notomuraenobathys microcephalus,Notomuraenobathys microcephalus,Notomuraenobathys microcephalus,"Notomuraenobathys microcephalus (Norman, 1937)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Notophycis fitchi,Notophycis fitchi,Notophycis fitchi,Notophycis fitchi Sazonov,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Notophycis marginata,Notophycis marginata,Notophycis marginata,Notophycis marginata,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Odontomacrurus murrayi,Odontomacrurus murrayi,Odontomacrurus murrayi,Odontomacrurus murrayi,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Pseudonezumia flagellicauda,Paracetonurus flagellicauda,Paracetonurus flagellicauda,Pseudonezumia flagellicauda,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Phycis blennoides,Phycis blennoides,Phycis blennoides,Phycis blennoides,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Phycis chesteri,Phycis chesteri,Phycis chesteri,Phycis chesteri,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Phycis phycis,Phycis phycis,Phycis phycis,Phycis phycis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus andriashevi,Physiculus andriashevi,Physiculus andriashevi,"Physiculus andriashevi Shcherbachev, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus argyropastus,Physiculus argyropastus,Physiculus argyropastus,"Physiculus argyropastus Alcock, 1894",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus beckeri,Physiculus beckeri,Physiculus beckeri,"Physiculus beckeri Shcherbachev, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus bertelseni,Physiculus bertelseni,Physiculus bertelseni,"Physiculus bertelseni Shcherbachev, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus capensis,Physiculus capensis,Physiculus capensis,Physiculus capensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus chigodarana,Physiculus chigodarana,Physiculus chigodarana,Physiculus chigodarana,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus coheni,Physiculus coheni,Physiculus coheni,"Physiculus coheni Paulin, 1989",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus cyanostrophus,Physiculus cyanostrophus,Physiculus cyanostrophus,"Physiculus cyanostrophus Anderson & Tweddle, 2002",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus cynodon,Physiculus cynodon,Physiculus cynodon,"Physiculus cynodon Sazonov, 1986",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus dalwigki,Physiculus dalwigki,Physiculus dalwigki,"Physiculus dalwigki Kaup, 1858",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus fedorovi,Physiculus fedorovi,Physiculus fedorovi,"Physiculus fedorovi Shcherbachev, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus fulvus,Physiculus fulvus,Physiculus fulvus,Physiculus fulvus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus grinnelli,Physiculus grinnelli,Physiculus grinnelli,Physiculus grinnelli,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus helenaensis,NA,Physiculus helenaensis,"Physiculus helenaensis Paulin, 1989",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Physiculus hexacytus,Physiculus hexacytus,Physiculus hexacytus,"Physiculus hexacytus Parin, 1984",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus huloti,Physiculus huloti,Physiculus huloti,"Physiculus huloti Poll, 1953",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus japonicus,Physiculus japonicus,Physiculus japonicus,Physiculus japonicus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus karrerae,Physiculus karrerae,Physiculus karrerae,"Physiculus karrerae Paulin, 1989",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus kaupi,Physiculus kaupi,Physiculus kaupi,"Physiculus kaupi Poey, 1865",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus longicavis,Physiculus longicavis,Physiculus longicavis,"Physiculus longicavis Parin, 1984",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus longifilis,Physiculus longifilis,Physiculus longifilis,Physiculus longifilis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus luminosa,Physiculus luminosa,Physiculus luminosa,Physiculus luminosa,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus luminosa,Physiculus luminosus,Physiculus luminosa,Physiculus luminosa,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus marisrubri,NA,Physiculus marisrubri,"Physiculus marisrubri Bruss, 1986",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus maslowskii,NA,Physiculus maslowskii,"Physiculus maslowskii Trunov, 1991",NA,NA,NA,G,,TRUE,FALSE,FALSE,TRUE
+Physiculus microbarbata,Physiculus microbarbata,Physiculus microbarbata,Physiculus microbarbata,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Physiculus natalensis,Physiculus natalensis,Physiculus natalensis,Physiculus natalensis,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Physiculus nematopus,Physiculus nematopus,Physiculus nematopus,Physiculus nematopus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus nielseni,NA,Physiculus nielseni,"Physiculus nielseni Shcherbachev, 1993",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus nigrescens,Physiculus nigrescens,Physiculus nigrescens,Physiculus nigrescens,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus nigripinnis,Physiculus nigripinnis,Physiculus nigripinnis,Physiculus nigripinnis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus normani,NA,Physiculus normani,"Physiculus normani Brüss, 1986",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus parini,Physiculus parini,Physiculus parini,"Physiculus parini Paulin, 1991",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus peregrinus,Physiculus peregrinus,Physiculus peregrinus,"Physiculus peregrinus (Günther, 1872)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus rastrelliger,Physiculus rastrelliger,Physiculus rastrelliger,Physiculus rastrelliger,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus rhodopinnis,Physiculus rhodopinnis,Physiculus rhodopinnis,"Physiculus rhodopinnis Okamura, 1982",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus roseus,Physiculus roseus,Physiculus roseus,"Physiculus roseus Alcock, 1891",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus sazonovi,Physiculus sazonovi,Physiculus sazonovi,"Physiculus sazonovi Paulin, 1991",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus sterops,Physiculus sterops,Physiculus sterops,"Physiculus sterops Paulin, 1989",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus dalwigki,Physiculus sudanensis,Physiculus sudanensis,"Physiculus dalwigki Kaup, 1858",NA,NA,NA,G,,FALSE,TRUE,FALSE,TRUE
+Physiculus talarae,Physiculus talarae,Physiculus talarae,Physiculus talarae,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus therosideros,Physiculus therosideros,Physiculus therosideros,"Physiculus therosideros Paulin, 1987",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Physiculus yoshidae,Physiculus yoshidae,Physiculus yoshidae,Physiculus yoshidae,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pollachius pollachius,Pollachius pollachius,Pollachius pollachius,Pollachius pollachius,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Pollachius virens,Pollachius virens,Pollachius virens,Pollachius virens,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Pseudocetonurus septifer,Pseudocetonurus septifer,Pseudocetonurus septifer,"Pseudocetonurus septifer Sazonov & Shcherbachev, 1982",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pseudonezumia cetonuropsis,Pseudonezumia cetonuropsis,Pseudonezumia cetonuropsis,"Pseudonezumia cetonuropsis (Gilbert & Hubbs, 1916)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pseudonezumia japonicus,Pseudonezumia japonicus,Pseudonezumia japonicus,"Pseudonezumia japonicus Okamura, 1970",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pseudonezumia parvipes,Pseudonezumia parvipes,Pseudonezumia parvipes,"Pseudonezumia parvipes (Smith & Radcliffe, 1912)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pseudonezumia pusilla,Pseudonezumia pusilla,Pseudonezumia pusilla,"Pseudonezumia pusilla (Sazonov & Shcherbachev, 1982)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pseudophycis bachus,Pseudophycis bachus,Pseudophycis bachus,Pseudophycis bachus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pseudophycis barbata,Pseudophycis barbata,Pseudophycis barbata,Pseudophycis barbata,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Pseudophycis breviuscula,Pseudophycis breviuscula,Pseudophycis breviuscula,Pseudophycis breviuscula,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Raniceps raninus,Raniceps raninus,Raniceps raninus,Raniceps raninus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Rhynchogadus hepaticus,Rhynchogadus hepaticus,Rhynchogadus hepaticus,Rhynchogadus hepaticus Facciola 1884,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Salilota australis,Salilota australis,Salilota australis,Salilota australis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Sphagemacrurus decimalis,Sphagemacrurus decimalis,Sphagemacrurus decimalis,"Sphagemacrurus decimalis (Gilbert & Hubbs, 1920)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Sphagemacrurus gibber,Sphagemacrurus gibber,Sphagemacrurus gibber,"Sphagemacrurus gibber (Gilbert & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Sphagemacrurus grenadae,Sphagemacrurus grenadae,Sphagemacrurus grenadae,"Sphagemacrurus grenadae (Parr, 1946)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Sphagemacrurus hirundo,Sphagemacrurus hirundo,Sphagemacrurus hirundo,Sphagemacrurus hirundo,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Sphagemacrurus pumiliceps,Sphagemacrurus pumiliceps,Sphagemacrurus pumiliceps,"Sphagemacrurus pumiliceps (Alcock, 1894)",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Sphagemacrurus richardi,Sphagemacrurus richardi,Sphagemacrurus richardi,"Sphagemacrurus richardi (Weber, 1913)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Spicomacrurus adelscotti,Spicomacrurus adelscotti,Spicomacrurus adelscotti,"Spicomacrurus adelscotti (Iwamoto & Merrett, 1997)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Spicomacrurus dictyogadus,NA,Spicomacrurus dictyogadus,Spicomacrurus dictyogadus dictyogadus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Spicomacrurus kuronumai,Spicomacrurus kuronumai,Spicomacrurus kuronumai,"Spicomacrurus kuronumai (Kamohara, 1938)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Spicomacrurus mccoskeri,NA,Spicomacrurus mccoskeri,Spicomacrurus mccoskeri,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Squalogadus modificatus,Squalogadus modificatus,Squalogadus modificatus,Squalogadus modificatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Steindachneria argentea,Steindachneria argentea,Steindachneria argentea,Steindachneria argentea,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Svetovidovia lucullus,NA,Svetovidovia lucullus,"Svetovidovia lucullus (A.S.Jensen, 1953)",NA,NA,NA,G,,TRUE,FALSE,FALSE,FALSE
+Gadus chalcogrammus,Gadus chalcogrammus,Theragra finnmarchica,Gadus chalcogrammus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trachonurus gagates,Trachonurus gagates,Trachonurus gagates,Trachonurus gagates,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Trachonurus robinsi,Trachonurus robinsi,Trachonurus robinsi,Trachonurus robinsi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Trachonurus sentipellis,Trachonurus sentipellis,Trachonurus sentipellis,Trachonurus sentipellis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Trachonurus sulcatus,Trachonurus sulcatus,Trachonurus sulcatus,Trachonurus sulcatus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trachonurus villosus,Trachonurus villosus,Trachonurus villosus,"Trachonurus villosus (Günther, 1877)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trachonurus yiwardaus,Trachonurus yiwardaus,Trachonurus yiwardaus,Trachonurus yiwardaus,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Trachyrincus aphyodes,Trachyrincus aphyodes,Trachyrincus aphyodes,Trachyrincus aphyodes,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Trachyrincus helolepis,Trachyrincus helolepis,Trachyrincus helolepis,"Trachyrincus helolepis Gilbert, 1892",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Trachyrincus longirostris,Trachyrincus longirostris,Trachyrincus longirostris,Trachyrincus longirostris,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Trachyrincus murrayi,Trachyrincus murrayi,Trachyrincus murrayi,Trachyrincus murrayi,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trachyrincus scabrus,Trachyrincus scabrus,Trachyrincus scabrus,Trachyrincus scabrus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trachyrincus villegai,Trachyrincus villegai,Trachyrincus villegai,"Trachyrincus villegai Pequeño, 1971",NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Tripterophycis gilchristi,Tripterophycis gilchristi,Tripterophycis gilchristi,Tripterophycis gilchristi,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Tripterophycis svetovidovi,Tripterophycis svetovidovi,Tripterophycis svetovidovi,"Tripterophycis svetovidovi Sazonov & Shcherbachev, 1986",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trisopterus capelanus,Trisopterus capelanus,Trisopterus capelanus,Trisopterus capelanus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trisopterus esmarkii,Trisopterus esmarkii,Trisopterus esmarkii,Trisopterus esmarkii,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trisopterus luscus,Trisopterus luscus,Trisopterus luscus,Trisopterus luscus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Trisopterus minutus,Trisopterus minutus,Trisopterus minutus,Trisopterus minutus,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis brasiliensis,Urophycis brasiliensis,Urophycis brasiliensis,Urophycis brasiliensis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis chuss,Urophycis chuss,Urophycis chuss,Urophycis chuss,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis cirrata,Urophycis cirrata,Urophycis cirrata,Urophycis cirrata,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis earllii,Urophycis earllii,Urophycis earllii,"Urophycis earllii (Bean, 1880)",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis floridana,Urophycis floridana,Urophycis floridana,Urophycis floridana,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis mystacea,Urophycis mystacea,Urophycis mystacea,Urophycis mystacea Ribeiro 1903,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis regia,Urophycis regia,Urophycis regia,Urophycis regia,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Urophycis tenuis,Urophycis tenuis,Urophycis tenuis,Urophycis tenuis,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ventrifossa atherodon,Ventrifossa atherodon,Ventrifossa atherodon,"Ventrifossa atherodon (Gilbert & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa ctenomelas,Ventrifossa ctenomelas,Ventrifossa ctenomelas,"Ventrifossa ctenomelas (Gilbert & Cramer, 1897)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa divergens,Ventrifossa divergens,Ventrifossa divergens,Ventrifossa divergens,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ventrifossa misakia,Ventrifossa fusca,Ventrifossa fusca,"Ventrifossa misakia (Jordan & Gilbert, 1904)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa garmani,Ventrifossa garmani,Ventrifossa garmani,Ventrifossa garmani,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa gomoni,Ventrifossa gomoni,Ventrifossa gomoni,Ventrifossa gomoni,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa johnboborum,Ventrifossa johnboborum,Ventrifossa johnboborum,Ventrifossa johnboborum,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa longibarbata,Ventrifossa longibarbata,Ventrifossa longibarbata,Ventrifossa longibarbata,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa macrodon,Ventrifossa macrodon,Ventrifossa macrodon,Ventrifossa macrodon,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Ventrifossa macropogon,Ventrifossa macropogon,Ventrifossa macropogon,"Ventrifossa macropogon Marshall, 1973",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ventrifossa macroptera,Ventrifossa macroptera,Ventrifossa macroptera,"Ventrifossa macroptera Okamura, 1982",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa misakia,Ventrifossa misakia,Ventrifossa misakia,"Ventrifossa misakia (Jordan & Gilbert, 1904)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa mucocephalus,Ventrifossa mucocephalus,Ventrifossa mucocephalus,"Ventrifossa mucocephalus Marshall, 1973",NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ventrifossa mystax,Ventrifossa mystax,Ventrifossa mystax,Ventrifossa mystax,NA,NA,NA,G,,TRUE,TRUE,TRUE,TRUE
+Ventrifossa nasuta,Ventrifossa nasuta,Ventrifossa nasuta,Ventrifossa nasuta,NA,NA,NA,G,,FALSE,TRUE,FALSE,FALSE
+Ventrifossa nigrodorsalis,Ventrifossa nigrodorsalis,Ventrifossa nigrodorsalis,Ventrifossa nigrodorsalis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa obtusirostris,Ventrifossa obtusirostris,Ventrifossa obtusirostris,"Ventrifossa obtusirostris Sazonov & Iwamoto, 1992",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa paxtoni,Ventrifossa paxtoni,Ventrifossa paxtoni,Ventrifossa paxtoni,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa petersonii,Ventrifossa petersonii,Ventrifossa petersonii,"Ventrifossa petersonii (Alcock, 1891)",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa rhipidodorsalis,Ventrifossa rhipidodorsalis,Ventrifossa rhipidodorsalis,Ventrifossa rhipidodorsalis,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa saikaiensis,Ventrifossa saikaiensis,Ventrifossa saikaiensis,"Ventrifossa saikaiensis Okamura, 1984",NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa sazonovi,Ventrifossa sazonovi,Ventrifossa sazonovi,Ventrifossa sazonovi,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa teres,Ventrifossa teres,Ventrifossa teres,Ventrifossa teres,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ventrifossa vinolenta,Ventrifossa vinolenta,Ventrifossa vinolenta,Ventrifossa vinolenta,NA,NA,NA,G,,FALSE,FALSE,TRUE,FALSE
+Ablennes hians,Ablennes hians,Ablennes hians,Ablennes hians,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Adrianichthys kruyti,NA,Adrianichthys kruyti,"Adrianichthys kruyti Weber, 1913",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Adrianichthys oophorus,NA,Adrianichthys oophorus,Adrianichthys oophorus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Adrianichthys poptae,NA,Adrianichthys poptae,Adrianichthys poptae,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Adrianichthys roseni,NA,Adrianichthys roseni,Adrianichthys roseni Parenti,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Arrhamphus sclerolepis,Arrhamphus sclerolepis,Arrhamphus krefftii,Arrhamphus sclerolepis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Arrhamphus sclerolepis,Arrhamphus sclerolepis,Arrhamphus sclerolepis,Arrhamphus sclerolepis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Belone belone,Belone belone,Belone belone,Belone belone belone,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Belone acus,NA,Belone belone,"Belone acus Risso, 1827",NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
+Belone belone,NA,Belone euxini,Belone belone belone,NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
+Belone svetovidovi,Belone svetovidovi,Belone svetovidovi,Belone svetovidovi,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Belonion apodion,NA,Belonion apodion,Belonion apodion,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Belonion dibranchodon,NA,Belonion dibranchodon,Belonion dibranchodon,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon abei,Cheilopogon abei,Cheilopogon abei,Cheilopogon abei,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon agoo,Cheilopogon agoo,Cheilopogon agoo,Cheilopogon agoo,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon altipennis,NA,Cheilopogon altipennis,Cheilopogon altipennis,NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
+Cheilopogon arcticeps,Cheilopogon arcticeps,Cheilopogon arcticeps,Cheilopogon arcticeps,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon atrisignis,Cheilopogon atrisignis,Cheilopogon atrisignis,Cheilopogon atrisignis,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Cheilopogon cyanopterus,Cypselurus bahiensis,Cheilopogon cyanopterus,Cheilopogon cyanopterus,NA,NA,NA,B,,TRUE,FALSE,FALSE,TRUE
+Cheilopogon cyanopterus,Cheilopogon cyanopterus,Cheilopogon cyanopterus,Cheilopogon cyanopterus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cheilopogon doederleinii,Cheilopogon doederleinii,Cheilopogon doederleinii,Cheilopogon doederleinii,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon dorsomacula,Cheilopogon dorsomacula,Cheilopogon dorsomacula,Cheilopogon dorsomacula,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Cheilopogon exsiliens,Cheilopogon exsiliens,Cheilopogon exsiliens,Cheilopogon exsiliens,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cheilopogon unicolor,Cheilopogon antoncichi,Cheilopogon furcatus,Cheilopogon unicolor,NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
+Cheilopogon furcatus,Cheilopogon furcatus,Cheilopogon furcatus,Cheilopogon furcatus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cheilopogon heterurus,Cheilopogon heterurus,Cheilopogon heterurus,Cheilopogon heterurus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cheilopogon hubbsi,Cheilopogon hubbsi,Cheilopogon hubbsi,"Cheilopogon hubbsi (Parin, 1961)",NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
+Cheilopogon intermedius,Cheilopogon intermedius,Cheilopogon intermedius,Cheilopogon intermedius,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon katoptron,Cheilopogon katoptron,Cheilopogon katoptron,Cheilopogon katoptron,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon melanurus,Cheilopogon melanurus,Cheilopogon melanurus,Cheilopogon melanurus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cheilopogon milleri,Cheilopogon milleri,Cheilopogon milleri,"Cheilopogon milleri (Gibbs & Staiger, 1970)",NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cheilopogon nigricans,Cheilopogon nigricans,Cheilopogon nigricans,Cheilopogon nigricans,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cheilopogon olgae,Cheilopogon olgae,Cheilopogon olgae,"Cheilopogon olgae Parin, 2009",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon papilio,Cheilopogon papilio,Cheilopogon papilio,"Cheilopogon papilio (Clark, 1936)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon pinnatibarbatus,Cheilopogon pinnatibarbatus,Cheilopogon pinnatibarbatus,Cheilopogon pinnatibarbatus,NA,NA,NA,B,,NA,TRUE,NA,TRUE
+Cheilopogon pitcairnensis,NA,Cheilopogon pitcairnensis,Cheilopogon pitcairnensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon rapanouiensis,NA,Cheilopogon rapanouiensis,"Cheilopogon rapanouiensis Parin, 1961",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon spilonotopterus,Cheilopogon spilonotopterus,Cheilopogon spilonotopterus,Cheilopogon spilonotopterus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon spilopterus,Cheilopogon spilopterus,Cheilopogon spilopterus,"Cheilopogon spilopterus (Valenciennes, 1847)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon suttoni,Cheilopogon suttoni,Cheilopogon suttoni,Cheilopogon suttoni,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon unicolor,Cheilopogon unicolor,Cheilopogon unicolor,Cheilopogon unicolor,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon ventralis,NA,Cheilopogon ventralis,"Cheilopogon ventralis (Nichols & Breder, 1935)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon xenopterus,Cheilopogon xenopterus,Cheilopogon xenopterus,Cheilopogon xenopterus,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Chriodorus atherinoides,Chriodorus atherinoides,Chriodorus atherinoides,Chriodorus atherinoides,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cololabis adocetus,Cololabis adocetus,Cololabis adocetus,Cololabis adocetus,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Cololabis saira,Cololabis saira,Cololabis saira,Cololabis saira,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Cypselurus angusticeps,Cypselurus angusticeps,Cypselurus angusticeps,Cypselurus angusticeps,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus callopterus,Cypselurus callopterus,Cypselurus callopterus,Cypselurus callopterus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus comatus,Cypselurus comatus,Cypselurus comatus,"Cypselurus comatus (Mitchill, 1815)",NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Cypselurus hexazona,Cypselurus hexazona,Cypselurus hexazona,Cypselurus hexazona,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus hiraii,Cypselurus hiraii,Cypselurus hiraii,Cypselurus hiraii,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon unicolor,NA,Cypselurus longibarbus,Cheilopogon unicolor,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus naresii,Cypselurus naresii,Cypselurus naresii,Cypselurus naresii,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus oligolepis,Cypselurus oligolepis,Cypselurus oligolepis,Cypselurus oligolepis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus opisthopus,Cypselurus opisthopus,Cypselurus opisthopus,Cypselurus opisthopus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus poecilopterus,Cypselurus poecilopterus,Cypselurus poecilopterus,Cypselurus poecilopterus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus simus,Cypselurus simus,Cypselurus simus,"Cypselurus simus (Valenciennes, 1847)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cypselurus starksi,Cypselurus starksi,Cypselurus starksi,Cypselurus starksi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys bispina,NA,Dermogenys bispina,Dermogenys bispina,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys brachynotopterus,Dermogenys brachynotopterus,Dermogenys brachynotopterus,"Dermogenys brachynotopterus (Bleeker, 1853)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys bruneiensis,Dermogenys bruneiensis,Dermogenys bruneiensis,Dermogenys bruneiensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys burmanica,NA,Dermogenys burmanica,Dermogenys burmanica,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys collettei,NA,Dermogenys collettei,Dermogenys collettei,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys orientalis,NA,Dermogenys montana,"Dermogenys orientalis (Weber, 1894)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys orientalis,Dermogenys orientalis,Dermogenys orientalis,"Dermogenys orientalis (Weber, 1894)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys palawanensis,NA,Dermogenys palawanensis,"Dermogenys palawanensis Meisner, 2001",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys pusilla,Dermogenys pusilla,Dermogenys pusilla,Dermogenys pusilla,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys robertsi,NA,Dermogenys robertsi,Dermogenys robertsi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys siamensis,Dermogenys siamensis,Dermogenys siamensis,Dermogenys siamensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys sumatrana,Dermogenys sumatrana,Dermogenys sumatrana,Dermogenys sumatrana,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Dermogenys vogti,NA,Dermogenys vogti,"Dermogenys vogti Brembach, 1982",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Euleptorhamphus velox,Euleptorhamphus velox,Euleptorhamphus velox,Euleptorhamphus velox,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Euleptorhamphus viridis,Euleptorhamphus viridis,Euleptorhamphus viridis,Euleptorhamphus viridis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Exocoetus gibbosus,Exocoetus gibbosus,Exocoetus gibbosus,Exocoetus gibbosus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Exocoetus monocirrhus,Exocoetus monocirrhus,Exocoetus monocirrhus,Exocoetus monocirrhus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Exocoetus obtusirostris,Exocoetus obtusirostris,Exocoetus obtusirostris,Exocoetus obtusirostris,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Exocoetus peruvianus,Exocoetus peruvianus,Exocoetus peruvianus,Exocoetus peruvianus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Exocoetus volitans,Exocoetus volitans,Exocoetus volitans,Exocoetus volitans,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Fodiator acutus,Fodiator acutus,Fodiator acutus,Fodiator acutus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Fodiator rostratus,Fodiator rostratus,Fodiator rostratus,Fodiator rostratus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemiramphus archipelagicus,Hemiramphus archipelagicus,Hemiramphus archipelagicus,Hemiramphus archipelagicus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemiramphus balao,Hemiramphus balao,Hemiramphus balao,Hemiramphus balao,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hemiramphus bermudensis,Hemiramphus bermudensis,Hemiramphus bermudensis,Hemiramphus bermudensis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hemiramphus brasiliensis,Hemiramphus brasiliensis,Hemiramphus brasiliensis,Hemiramphus brasiliensis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hemiramphus convexus,Hemiramphus convexus,Hemiramphus convexus,Hemiramphus convexus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemiramphus depauperatus,Hemiramphus depauperatus,Hemiramphus depauperatus,Hemiramphus depauperatus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemiramphus far,Hemiramphus far,Hemiramphus far,Hemiramphus far,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hemiramphus lutkei,Hemiramphus lutkei,Hemiramphus lutkei,Hemiramphus lutkei,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemiramphus marginatus,Hemiramphus marginatus,Hemiramphus marginatus,Hemiramphus marginatus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemiramphus robustus,Hemiramphus robustus,Hemiramphus robustus,Hemiramphus robustus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemiramphus saltator,Hemiramphus saltator,Hemiramphus saltator,Hemiramphus saltator,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon byssus,NA,Hemirhamphodon byssus,Hemirhamphodon byssus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon chrysopunctatus,NA,Hemirhamphodon chrysopunctatus,"Hemirhamphodon chrysopunctatus Brembach, 1978",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon kapuasensis,Hemirhamphodon kapuasensis,Hemirhamphodon kapuasensis,Hemirhamphodon kapuasensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon kecil,NA,Hemirhamphodon kecil,"Hemirhamphodon kecil Tan & Lim, 2013",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon kuekenthali,Hemirhamphodon kuekenthali,Hemirhamphodon kuekenthali,Hemirhamphodon kuekenthali,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon phaiosoma,NA,Hemirhamphodon phaiosoma,"Hemirhamphodon phaiosoma (Bleeker, 1852)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon pogonognathus,Hemirhamphodon pogonognathus,Hemirhamphodon pogonognathus,Hemirhamphodon pogonognathus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon sesamum,NA,Hemirhamphodon sesamum,"Hemirhamphodon sesamum Tan & Lim, 2013",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hemirhamphodon tengah,NA,Hemirhamphodon tengah,Hemirhamphodon tengah,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hirundichthys affinis,Hirundichthys affinis,Hirundichthys affinis,Hirundichthys affinis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hirundichthys albimaculatus,Hirundichthys albimaculatus,Hirundichthys albimaculatus,Hirundichthys albimaculatus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hirundichthys coromandelensis,Hirundichthys coromandelensis,Hirundichthys coromandelensis,Hirundichthys coromandelensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hirundichthys gilberti,NA,Hirundichthys rondeletii,"Hirundichthys gilberti (Snyder, 1904)",NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
+Hirundichthys albimaculatus,NA,Hirundichthys ilma,Hirundichthys albimaculatus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hirundichthys indicus,NA,Hirundichthys indicus,Hirundichthys indicus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hirundichthys marginatus,Hirundichthys marginatus,Hirundichthys marginatus,Hirundichthys marginatus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hirundichthys oxycephalus,Hirundichthys oxycephalus,Hirundichthys oxycephalus,Hirundichthys oxycephalus,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Hirundichthys rondeletii,Hirundichthys rondeletii,Hirundichthys rondeletii,Hirundichthys rondeletii,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hirundichthys rufipinnis,Hirundichthys rufipinnis,Hirundichthys rufipinnis,Hirundichthys rufipinnis,NA,NA,NA,B,,TRUE,FALSE,FALSE,TRUE
+Hirundichthys socotranus,NA,Hirundichthys socotranus,"Hirundichthys socotranus (Steindachner, 1902)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hirundichthys speculiger,Hirundichthys speculiger,Hirundichthys speculiger,Hirundichthys speculiger,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hirundichthys volador,NA,Hirundichthys volador,Hirundichthys volador,NA,NA,NA,B,,TRUE,FALSE,FALSE,TRUE
+Hyporhamphus acutus,Hyporhamphus acutus,Hyporhamphus acutus,"Hyporhamphus acutus (Günther, 1872)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus affinis,Hyporhamphus affinis,Hyporhamphus affinis,Hyporhamphus affinis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hyporhamphus australis,Hyporhamphus australis,Hyporhamphus australis,Hyporhamphus australis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus balinensis,Hyporhamphus balinensis,Hyporhamphus balinensis,"Hyporhamphus balinensis (Bleeker, 1858)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus brederi,NA,Hyporhamphus brederi,Hyporhamphus brederi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus capensis,Hyporhamphus capensis,Hyporhamphus capensis,Hyporhamphus capensis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hyporhamphus collettei,NA,Hyporhamphus collettei,"Hyporhamphus collettei Banford, 2010",NA,NA,NA,B,,TRUE,FALSE,FALSE,TRUE
+Hyporhamphus dussumieri,Hyporhamphus dussumieri,Hyporhamphus dussumieri,Hyporhamphus dussumieri,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus erythrorinchus,Hyporhamphus erythrorinchus,Hyporhamphus erythrorinchus,"Hyporhamphus erythrorinchus (Lesueur, 1821)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus gamberur,Hyporhamphus gamberur,Hyporhamphus gamberur,"Hyporhamphus gamberur (Rüppell, 1837)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus gernaerti,Hyporhamphus gernaerti,Hyporhamphus gernaerti,"Hyporhamphus gernaerti (Valenciennes, 1847)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus gilli,Hyporhamphus gilli,Hyporhamphus gilli,"Hyporhamphus gilli Meek & Hildebrand, 1923",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus ihi,Hyporhamphus ihi,Hyporhamphus ihi,Hyporhamphus ihi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus improvisus,Hyporhamphus improvisus,Hyporhamphus improvisus,"Hyporhamphus improvisus (Smith, 1933)",NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Hyporhamphus intermedius,Hyporhamphus intermedius,Hyporhamphus intermedius,Hyporhamphus intermedius,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus limbatus,Hyporhamphus limbatus,Hyporhamphus limbatus,Hyporhamphus limbatus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus meeki,Hyporhamphus meeki,Hyporhamphus meeki,Hyporhamphus meeki,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hyporhamphus melanochir,Hyporhamphus melanochir,Hyporhamphus melanochir,Hyporhamphus melanochir,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus melanopterus,Hyporhamphus melanopterus,Hyporhamphus melanopterus,Hyporhamphus melanopterus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus mexicanus,NA,Hyporhamphus mexicanus,Hyporhamphus mexicanus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus naos,Hyporhamphus naos,Hyporhamphus naos,Hyporhamphus naos,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus neglectissimus,Hyporhamphus neglectissimus,Hyporhamphus neglectissimus,Hyporhamphus neglectissimus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus neglectus,Hyporhamphus neglectus,Hyporhamphus neglectus,Hyporhamphus neglectus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus pacificus,NA,Hyporhamphus pacificus,"Hyporhamphus pacificus (Steindachner, 1900)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus paucirastris,NA,Hyporhamphus paucirastris,Hyporhamphus paucirastris Collette et Parin,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus picarti,Hyporhamphus picarti,Hyporhamphus picarti,"Hyporhamphus picarti (Valenciennes, 1847)",NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hyporhamphus quoyi,Hyporhamphus quoyi,Hyporhamphus quoyi,Hyporhamphus quoyi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus regularis,Hyporhamphus regularis,Hyporhamphus regularis,Hyporhamphus regularis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus roberti,Hyporhamphus roberti,Hyporhamphus roberti,Hyporhamphus roberti,NA,NA,NA,B,,NA,TRUE,NA,TRUE
+Hyporhamphus rosae,Hyporhamphus rosae,Hyporhamphus rosae,"Hyporhamphus rosae Jordan & Gilbert, 1880",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus sajori,Hyporhamphus sajori,Hyporhamphus sajori,Hyporhamphus sajori,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus sindensis,Hyporhamphus sindensis,Hyporhamphus sindensis,"Hyporhamphus sindensis (Regan, 1905)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus snyderi,Hyporhamphus snyderi,Hyporhamphus snyderi,Hyporhamphus snyderi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus taiwanensis,NA,Hyporhamphus taiwanensis,"Hyporhamphus taiwanensis S.u.Collette, 1986",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus unicuspis,Hyporhamphus unicuspis,Hyporhamphus unicuspis,Hyporhamphus unicuspis Collette & Parin,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus unifasciatus,Hyporhamphus unifasciatus,Hyporhamphus unifasciatus,Hyporhamphus unifasciatus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Hyporhamphus xanthopterus,Hyporhamphus xanthopterus,Hyporhamphus xanthopterus,Hyporhamphus xanthopterus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Hyporhamphus yuri,NA,Hyporhamphus yuri,Hyporhamphus yuri,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Melapedalion breve,Melapedalion breve,Melapedalion breve,Melapedalion breve,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Cheilopogon fisunovi,NA,NA,Cheilopogon fisunovi Parin & Belyanina 1998,NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Cheilopogon formosus,NA,NA,Cheilopogon formosus,NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Cheilopogon marisrubri,NA,NA,Cheilopogon marisrubri,NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Cypselurus bosha,NA,NA,Cypselurus bosha Shakhovskoy & Parin 2019,NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Cypselurus olpar,NA,NA,Cypselurus olpar Shakhovskoy & Parin 2019,NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Nomorhamphus bakeri,NA,Nomorhamphus bakeri,"Nomorhamphus bakeri Fowler & Bean, 1922",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus brembachi,NA,Nomorhamphus brembachi,"Nomorhamphus brembachi Vogt, 1978",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus celebensis,NA,Nomorhamphus celebensis,"Nomorhamphus celebensis Weber & Beaufort, 1992",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus ebrardtii,Nomorhamphus ebrardtii,Nomorhamphus ebrardtii,"Nomorhamphus ebrardtii (Popta, 1912)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus hageni,NA,Nomorhamphus hageni,"Nomorhamphus hageni (Popta, 1912)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus kolonodalensis,NA,Nomorhamphus kolonodalensis,Nomorhamphus kolonodalensis Meisner & Louie,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus lanceolatus,NA,Nomorhamphus lanceolatus,"Nomorhamphus lanceolatus Huylebrouck, Hadiaty & Herder, 2014",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus liemi,NA,Nomorhamphus liemi,Nomorhamphus liemi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus manifesta,NA,Nomorhamphus manifesta,Nomorhamphus manifesta,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus megarrhamphus,NA,Nomorhamphus megarrhamphus,Nomorhamphus megarrhamphus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus pectoralis,NA,Nomorhamphus pectoralis,"Nomorhamphus pectoralis (Fowler, 1934)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus philippinus,NA,Nomorhamphus philippinus,"Nomorhamphus philippinus (Ladiges, 1972)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus pinnimaculatus,NA,Nomorhamphus pinnimaculata,"Nomorhamphus pinnimaculatus Meisner, 2001",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus brembachi,NA,Nomorhamphus ravnaki,"Nomorhamphus brembachi Vogt, 1978",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus rex,NA,Nomorhamphus rex,Nomorhamphus rex,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus rossi,NA,Nomorhamphus rossi,"Nomorhamphus rossi Meisner, 2001",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus sagittarius,NA,Nomorhamphus sagittarius,"Nomorhamphus sagittarius Huylebrouck, Hadiaty & Herder, 2014",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus brembachi,NA,Nomorhamphus sanussii,"Nomorhamphus brembachi Vogt, 1978",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus towoetii,NA,Nomorhamphus towoetii,"Nomorhamphus towoetii Ladiges, 1972",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus versicolor,NA,NA,NA,NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Nomorhamphus viviparus,NA,Nomorhamphus vivipara,"Nomorhamphus viviparus (Peters, 1865)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Nomorhamphus weberi,NA,Nomorhamphus weberi,Nomorhamphus weberi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias asinua,NA,Oryzias asinua,Oryzias asinua,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias bonneorum,NA,Oryzias bonneorum,"Oryzias bonneorum Parenti, 2008",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias carnaticus,Oryzias carnaticus,Oryzias carnaticus,Oryzias carnaticus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias celebensis,NA,Oryzias celebensis,Oryzias celebensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias curvinotus,Oryzias curvinotus,Oryzias curvinotus,Oryzias curvinotus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias dancena,Oryzias dancena,Oryzias dancena,Oryzias dancena,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias dopingdopingensis,NA,NA,Oryzias dopingdopingensis,NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Oryzias eversi,NA,Oryzias eversi,Oryzias eversi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias hadiatyae,Oryzias hadiatyae,Oryzias hadiatyae,Oryzias hadiatyae,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias haugiangensis,NA,Oryzias haugiangensis,Oryzias haugiangensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias hubbsi,NA,Oryzias hubbsi,Oryzias hubbsi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias javanicus,Oryzias javanicus,Oryzias javanicus,Oryzias javanicus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias latipes,Oryzias latipes,Oryzias latipes,Oryzias latipes,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias luzonensis,NA,Oryzias luzonensis,Oryzias luzonensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias marmoratus,NA,Oryzias marmoratus,Oryzias marmoratus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias matanensis,NA,Oryzias matanensis,Oryzias matanensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias mekongensis,Oryzias mekongensis,Oryzias mekongensis,Oryzias mekongensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias dancena,Oryzias melastigma,Oryzias melastigma,Oryzias dancena,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias minutillus,Oryzias minutillus,Oryzias minutillus,Oryzias minutillus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias nebulosus,NA,Oryzias nebulosus,Oryzias nebulosus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias nigrimas,NA,Oryzias nigrimas,Oryzias nigrimas,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias orthognathus,NA,Oryzias orthognathus,Oryzias orthognathus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias pectoralis,NA,Oryzias pectoralis,Oryzias pectoralis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias profundicola,NA,Oryzias profundicola,Oryzias profundicola,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias sakaizumii,NA,Oryzias sakaizumii,Oryzias sakaizumii,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias sarasinorum,NA,Oryzias sarasinorum,Oryzias sarasinorum,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias setnai,Oryzias setnai,Oryzias setnai,Oryzias setnai,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias sinensis,NA,Oryzias sinensis,Oryzias sinensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias soerotoi,NA,Oryzias soerotoi,Oryzias soerotoi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias songkhramensis,NA,Oryzias songkhramensis,Oryzias songkhramensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias timorensis,Oryzias timorensis,Oryzias timorensis,"Oryzias timorensis (Weber & de Beaufort, 1922)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias uwai,NA,Oryzias uwai,Oryzias uwai,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias wolasi,NA,Oryzias wolasi,Oryzias wolasi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oryzias woworae,NA,Oryzias woworae,Oryzias woworae,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Oxyporhamphus micropterus,Oxyporhamphus micropterus,Oxyporhamphus micropterus,Oxyporhamphus micropterus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Oxyporhamphus similis,Oxyporhamphus similis,Oxyporhamphus similis,Oxyporhamphus similis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Parexocoetus brachypterus,Parexocoetus brachypterus,Parexocoetus brachypterus,Parexocoetus brachypterus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Parexocoetus hillianus,Parexocoetus hillianus,Parexocoetus hillianus,Parexocoetus hillianus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Exocoetus mesogaster,Parexocoetus mento,Parexocoetus mento,"Exocoetus mesogaster Weinland, 1858",NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Parexocoetus mento,Parexocoetus mento,Parexocoetus mento,Parexocoetus mento,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Strongylura senegalensis,Petalichthys capensis,Petalichthys capensis,Strongylura senegalensis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Platybelone argalus,Platybelone argalus,Platybelone argalus,Platybelone argalus,NA,NA,NA,B,,NA,TRUE,NA,TRUE
+Platybelone lovii,NA,Platybelone lovii,"Platybelone lovii Günther, 1866",NA,NA,NA,B,,TRUE,FALSE,FALSE,TRUE
+Playbelone argalus,Belone ardeola,Playbelone argalus,Playbelone argalus,NA,NA,NA,B,,NA,FALSE,NA,TRUE
+Potamorrhaphis eigenmanni,NA,Potamorrhaphis eigenmanni,Potamorrhaphis eigenmanni,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Potamorrhaphis guianensis,Potamorrhaphis guianensis,Potamorrhaphis guianensis,Potamorrhaphis guianensis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Potamorrhaphis labiatus,NA,Potamorrhaphis labiatus,Potamorrhaphis labiatus Sant'Anna et al.,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Potamorrhaphis petersi,NA,Potamorrhaphis petersi,Potamorrhaphis petersi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Prognichthys brevipinnis,Prognichthys brevipinnis,Prognichthys brevipinnis,Prognichthys brevipinnis,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Prognichthys gibbifrons,Prognichthys gibbifrons,Prognichthys gibbifrons,Prognichthys gibbifrons,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Prognichthys glaphyrae,Prognichthys glaphyrae,Prognichthys glaphyrae,Prognichthys glaphyrae,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Prognichthys occidentalis,Prognichthys occidentalis,Prognichthys occidentalis,Prognichthys occidentalis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Prognichthys sealei,Prognichthys sealei,Prognichthys sealei,Prognichthys sealei,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Prognichthys tringa,Prognichthys tringa,Prognichthys tringa,Prognichthys tringa,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Pseudotylosurus angusticeps,Pseudotylosurus angusticeps,Pseudotylosurus angusticeps,Pseudotylosurus angusticeps,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Pseudotylosurus microps,Pseudotylosurus microps,Pseudotylosurus microps,Pseudotylosurus microps,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Rhynchorhamphus arabicus,NA,Rhynchorhamphus arabicus,Rhynchorhamphus arabicus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Rhynchorhamphus georgii,Rhynchorhamphus georgii,Rhynchorhamphus georgii,Rhynchorhamphus georgii,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Rhynchorhamphus malabaricus,Rhynchorhamphus malabaricus,Rhynchorhamphus malabaricus,Rhynchorhamphus malabaricus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Rhynchorhamphus naga,Rhynchorhamphus naga,Rhynchorhamphus naga,Rhynchorhamphus naga,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Scomberesox saurus,Scomberesox saurus,Scomberesox saurus,Scomberesox saurus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Scomberesox scombroides,Scomberesox saurus,Scomberesox scombroides,"Scomberesox scombroides (Richardson, 1843)",NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Scomberesox simulans,Scomberesox simulans,Scomberesox simulans,Scomberesox simulans,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Strongylura anastomella,Strongylura anastomella,Strongylura anastomella,Strongylura anastomella,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura exilis,Strongylura exilis,Strongylura exilis,Strongylura exilis,NA,NA,NA,B,,FALSE,TRUE,FALSE,FALSE
+Strongylura fluviatilis,Strongylura fluviatilis,Strongylura fluviatilis,Strongylura fluviatilis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura hubbsi,NA,Strongylura hubbsi,Strongylura hubbsi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura incisa,Strongylura incisa,Strongylura incisa,Strongylura incisa,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura krefftii,Strongylura krefftii,Strongylura krefftii,Strongylura krefftii,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura leiura,Strongylura leiura,Strongylura leiura,Strongylura leiura,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura marina,Strongylura marina,Strongylura marina,Strongylura marina,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Strongylura notata,Strongylura notata,Strongylura notata,Strongylura notata,NA,NA,NA,B,,NA,TRUE,NA,TRUE
+Strongylura scapularis,Strongylura scapularis,Strongylura scapularis,Strongylura scapularis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura senegalensis,Strongylura senegalensis,Strongylura senegalensis,Strongylura senegalensis,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Strongylura strongylura,Strongylura strongylura,Strongylura strongylura,Strongylura strongylura,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Strongylura timucu,Strongylura timucu,Strongylura timucu,Strongylura timucu,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Strongylura urvillii,Strongylura urvillii,Strongylura urvillii,"Strongylura urvillii (Valenciennes, 1846)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Tondanichthys kottelati,Tondanichthys kottelati,Tondanichthys kottelati,"Tondanichthys kottelati Collette, 1995",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Tylosurus rafale,NA,Tylosurus acus,"Tylosurus rafale Collette & Parin, 1970",NA,NA,NA,B,,NA,FALSE,NA,TRUE
+Tylosurus acus,Tylosurus acus,Tylosurus acus,Tylosurus acus,NA,NA,NA,B,,NA,TRUE,NA,TRUE
+Tylosurus imperialis,Tylosurus imperialis,Tylosurus acus,"Tylosurus imperialis (Rafinesque, 1810)",NA,NA,NA,B,,NA,TRUE,NA,TRUE
+Tylosurus melanotus,Tylosurus melanotus,Tylosurus acus,Tylosurus melanotus (Bleeker),NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Tylosurus choram,Tylosurus choram,Tylosurus choram,Tylosurus choram,NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
+Tylosurus crocodilus,Tylosurus crocodilus,Tylosurus crocodilus,Tylosurus crocodilus,NA,NA,NA,B,,TRUE,TRUE,TRUE,TRUE
+Tylosurus fodiator,Tylosurus fodiator,Tylosurus fodiator,Tylosurus fodiator Jordan & Gilbert,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Tylosurus gavialoides,Tylosurus gavialoides,Tylosurus gavialoides,Tylosurus gavialoides,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Tylosurus pacificus,Tylosurus pacificus,Tylosurus pacificus,Tylosurus pacificus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Tylosurus punctulatus,Tylosurus punctulatus,Tylosurus punctulatus,Tylosurus punctulatus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Xenentodon cancila,Xenentodon cancila,Xenentodon cancila,Xenentodon cancila,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Xenentodon canciloides,Xenentodon canciloides,Xenentodon canciloides,Xenentodon canciloides Bleeker 1854,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus alleni,NA,Zenarchopterus alleni,"Zenarchopterus alleni Collette, 1982",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus buffonis,Zenarchopterus buffonis,Zenarchopterus buffonis,Zenarchopterus buffonis,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus caudovittatus,Zenarchopterus caudovittatus,Zenarchopterus caudovittatus,"Zenarchopterus caudovittatus (Weber, 1907)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus clarus,Zenarchopterus clarus,Zenarchopterus clarus,"Zenarchopterus clarus Mohr, 1926",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus cotnog,NA,NA,"Zenarchopterus cotnog (Smith, 1902)",NA,NA,NA,B,,NA,FALSE,NA,FALSE
+Zenarchopterus dispar,Zenarchopterus dispar,Zenarchopterus dispar,Zenarchopterus dispar,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus dunckeri,Zenarchopterus dunckeri,Zenarchopterus dunckeri,Zenarchopterus dunckeri,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus dux,NA,Zenarchopterus dux,"Zenarchopterus dux Seale, 1910",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus ectuntio,Zenarchopterus ectuntio,Zenarchopterus ectuntio,Zenarchopterus ectuntio,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus gilli,Zenarchopterus gilli,Zenarchopterus gilli,Zenarchopterus gilli,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus kampeni,NA,Zenarchopterus kampeni,"Zenarchopterus kampeni Weber, 1913",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus novaeguineae,Zenarchopterus novaeguineae,Zenarchopterus novaeguineae,"Zenarchopterus novaeguineae Weber, 1913",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus ornithocephala,Zenarchopterus ornithocephala,Zenarchopterus ornithocephala,"Zenarchopterus ornithocephala Collette, 1985",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus pappenheimi,Zenarchopterus pappenheimi,Zenarchopterus pappenheimi,"Zenarchopterus pappenheimi Mohr, 1926",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus philippinus,NA,Zenarchopterus philippinus,Zenarchopterus philippinus,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus quadrimaculatus,NA,Zenarchopterus quadrimaculatus,"Zenarchopterus quadrimaculatus Mohr, 1926",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus rasori,Zenarchopterus rasori,Zenarchopterus rasori,"Zenarchopterus rasori (Popta, 1912)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus robertsi,NA,Zenarchopterus robertsi,Zenarchopterus robertsi,NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus striga,NA,Zenarchopterus striga,"Zenarchopterus striga (Blyth, 1858)",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Zenarchopterus xiphophorus,NA,Zenarchopterus xiphophorus,"Zenarchopterus xiphophorus Mohr, 1934",NA,NA,NA,B,,FALSE,FALSE,TRUE,FALSE
+Seriolella labyrinthica,Seriolella labyrinthica,Schedophilus velaini,Seriolella labyrinthica,NA,NA,NA,B,,TRUE,FALSE,FALSE,FALSE
