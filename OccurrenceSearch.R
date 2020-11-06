@@ -202,8 +202,157 @@ myBridgeTreeObject <- occQuery(x = GBIFsearchList, GBIFLogin = login, datasource
                                GBIFDownloadDirectory = "data/GBIFDownloads/")
 saveRDS(myBridgeTreeObject, file = "data/GBIFDownloads/myBridgeTreeObject")
 myBridgeTreeObject <- readRDS(file = "data/GBIFDownloads/myBridgeTreeObject")
+
 #Get and write citations
-myOccCitations <- occCitation(myBridgeTreeObject)
-rawCitations <- file("data/rawCitations.txt")
-writeLines(print(myOccCitations), rawCitations)
-close(rawCitations)
+sink("data/rawCitations.txt")
+print(myOccCitations)
+sink()
+
+# Query OBIS for occurrence data ----
+atlChecklist <- read.csv("data/taxaWithinAreaOfInterest.csv", stringsAsFactors = F)
+atlChecklist <- atlChecklist[atlChecklist$isAtlantic,]
+OBISsearchList <- c(atlChecklist$OBISChecklist)
+OBISsearchList <- unique(OBISsearchList[!is.na(OBISsearchList)])
+
+OBISresults <- vector(mode = "list", length = length(OBISsearchList))
+OBIScitations <- NULL
+for(name in OBISsearchList){
+  print(name)
+  OBISresults[[match(name, OBISsearchList)]] <- occurrence(scientificname = name, absence = F)
+  print(nrow(OBISresults[[match(name, OBISsearchList)]]))
+  if(nrow(OBISresults[[match(name, OBISsearchList)]]) > 1){
+    write.csv(OBISresults[[match(name, OBISsearchList)]],
+              file = paste0("data/OBISDownloads/", name, ".csv"))
+    OBIScitations <- c(unique(OBISresults[[match(name, OBISsearchList)]]$dataset_id), 
+                       OBIScitations)
+  }
+}
+
+# Get and save raw OBIS citation keys
+obisDatasetCitations <- robis::dataset()
+OBIScitations <- unique(OBIScitations)
+sink("data/OBISDownloads/citationKeys.txt", append = F)
+OBIScitations
+sink()
+
+mardigrasOBIScitations <- obisDatasetCitations[obisDatasetCitations$id %in% OBIScitations,]$citation
+mardigrasOBIScitations <- mardigrasOBIScitations[!is.na(mardigrasOBIScitations)]
+sink("data/rawOBISCitations.txt", append = F)
+paste0(mardigrasOBIScitations, " Accessed via OBIS on 2020-11-04.")
+sink()
+
+# Process all results into common by-species .csv occurrence files ----
+# Define function to check for decimals that are all 0s.
+zeroDecCheck <- function(x){
+  return((x - floor(x))==0)
+}
+
+# Get data
+gbifData <- readRDS(file = "data/GBIFDownloads/myBridgeTreeObject")
+obisData <- list.files(path = "data/OBISDownloads/", pattern = ".csv", full.names = T)
+atlChecklist <- read.csv("data/taxaWithinAreaOfInterest.csv", stringsAsFactors = F)
+atlChecklist <- atlChecklist[atlChecklist$isAtlantic,]
+
+# Merging datasets and doing some preliminary cleaning
+for(sp in atlChecklist$EschmeyerName){
+  GBIFrec <- NULL
+  GBIFsynRec <- NULL
+  OBISrec <- NULL
+  
+  print(sp)
+  
+  spGBIF <- atlChecklist$GBIFnames[match(sp, atlChecklist$EschmeyerName)] # Get GBIF record, if present
+  if(!is.na(spGBIF)){
+    spGBIF <- gbifData@cleanedTaxonomy$`Best Match`[match(spGBIF, gbifData@cleanedTaxonomy$`Input Name`)]
+    GBIFrec <- gbifData@occResults[[match(spGBIF, names(gbifData@occResults))]]$GBIF$RawOccurrences
+    GBIFrec <- occ_download_import(GBIFrec) %>% dplyr::select(scientificName, 
+                                                              decimalLatitude, decimalLongitude, 
+                                                              coordinateUncertaintyInMeters,
+                                                              year, month, day, 
+                                                              depth, depthAccuracy,
+                                                              basisOfRecord, issue)
+    GBIFrec <- GBIFrec[!grepl("COORDINATE_ROUNDED", GBIFrec$issue),]
+    GBIFrec <- GBIFrec[!zeroDecCheck(GBIFrec$decimalLatitude),]
+    GBIFrec <- GBIFrec[!zeroDecCheck(GBIFrec$decimalLongitude),]
+  }
+  
+  spGBIFSyn <- atlChecklist$GBIF.Synonym[match(sp, atlChecklist$EschmeyerName)] # Get synonymous record, if present
+  
+  if(!is.na(spGBIFSyn)){
+    spGBIFSyn <- gbifData@cleanedTaxonomy$`Best Match`[match(spGBIFSyn, gbifData@cleanedTaxonomy$`Input Name`)]
+    GBIFsynRec <- gbifData@occResults[[match(spGBIFsyn, names(gbifData@occResults))]]$GBIF$RawOccurrences
+    GBIFsynRec <- occ_download_import(GBIFsynRec) %>% dplyr::select(scientificName, 
+                                                                    decimalLatitude, decimalLongitude, 
+                                                                    coordinateUncertaintyInMeters, 
+                                                                    year, month, day,
+                                                                    depth, depthAccuracy,
+                                                                    basisOfRecord, issue)
+    GBIFsynRec <- GBIFsynRec[!grepl("COORDINATE_ROUNDED", GBIFsynRec$issue),]
+    GBIFsynRec <- GBIFsynRec[!zeroDecCheck(GBIFsynRec$decimalLatitude),]
+    GBIFsynRec <- GBIFsynRec[!zeroDecCheck(GBIFsynRec$decimalLongitude),]
+  }
+  
+  
+  requiredOBISData <- c("scientificName", "decimalLatitude", "decimalLongitude", 
+                    "coordinateUncertaintyInMeters", 
+                    "eventDate", "year", "month", "day", 
+                    "depth", "basisOfRecord", "flags")
+  spOBIS <- atlChecklist$OBISChecklist[match(sp,atlChecklist$EschmeyerName)]
+  if(!is.na(spOBIS) && any(grepl(pattern = spOBIS, obisData))){
+    spOBIS <- paste0("data/OBISDownloads/", spOBIS, ".csv")
+    OBISrec <- read.csv(spOBIS)
+    OBISrec <- OBISrec %>% dplyr::select(any_of(requiredOBISData))
+    # Fix dates
+    if (all(c("year", "month", "day", "eventDate") %in% colnames(OBISrec))){
+      OBISrec <- OBISrec[,-match("eventDate", colnames(OBISrec))]
+    } 
+    else if("eventDate" %in% colnames(OBISrec)){
+      dates <- cbind(format(lubridate::as_date(OBISrec$eventDate), format = "%Y"), 
+                     format(lubridate::as_date(OBISrec$eventDate), format = "%m"),
+                     format(lubridate::as_date(OBISrec$eventDate), format = "%d"))
+      colnames(dates) <- c("year", "month", "day")
+      OBISrec <- cbind(OBISrec, dates)
+    } 
+    else{
+      dates <- cbind(rep(NA, nrow(OBISrec)), 
+                     rep(NA, nrow(OBISrec)),
+                     rep(NA, nrow(OBISrec)))
+      colnames(dates) <- c("year", "month", "day")
+      OBISrec <- cbind(OBISrec, dates)
+    }
+    if (!("coordinateUncertaintyInMeters" %in% colnames(OBISrec))){
+      coordinateUncertaintyInMeters <- rep(NA, nrow(OBISrec))
+      OBISrec <- cbind(OBISrec,coordinateUncertaintyInMeters)
+    }
+    if (!("depth" %in% colnames(OBISrec))){
+      depth <- rep(NA, nrow(OBISrec))
+      OBISrec <- cbind(OBISrec,depth)
+    }
+    if (!("basisOfRecord" %in% colnames(OBISrec))){
+      basisOfRecord <- rep(NA, nrow(OBISrec))
+      OBISrec <- cbind(OBISrec,basisOfRecord)
+    }
+    if (!("flags" %in% colnames(OBISrec))){
+      flags <- rep(NA, nrow(OBISrec))
+      OBISrec <- cbind(OBISrec, flags)
+    }
+    colnames(OBISrec)[match("flags", colnames(OBISrec))] <- "issue"
+    depthAccuracy <- rep(NA, nrow(OBISrec))
+    OBISrec <- cbind(OBISrec, depthAccuracy)
+    OBISrec <- OBISrec[ , c("scientificName", 
+                            "decimalLatitude", "decimalLongitude", 
+                            "coordinateUncertaintyInMeters",
+                            "year", "month", "day", 
+                            "depth", "depthAccuracy",
+                            "basisOfRecord", "issue")]
+    OBISrec <- OBISrec[!zeroDecCheck(OBISrec$decimalLatitude),]
+    OBISrec <- OBISrec[!zeroDecCheck(OBISrec$decimalLongitude),]
+  }
+    
+  AllRec <- rbind(GBIFrec, GBIFsynRec, OBISrec)
+  AllRec$scientificName <- rep(sp, nrow(AllRec))
+  
+  print(paste0(sp, " has ", nrow(AllRec), " points."))
+  write.csv(AllRec, file = paste0("data/MergedOccurrences/", sp, ".csv"))
+}
+  
