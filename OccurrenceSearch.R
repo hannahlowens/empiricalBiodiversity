@@ -271,6 +271,8 @@ for(sp in atlChecklist$EschmeyerName){
                                                               year, month, day, 
                                                               depth, depthAccuracy,
                                                               basisOfRecord, issue)
+    source <- rep("GBIF", n=nrow(GBIFrec))
+    if(nrow(GBIFrec) > 0) GBIFrec <- cbind(GBIFrec, source)
     GBIFrec <- GBIFrec[!grepl("COORDINATE_ROUNDED", GBIFrec$issue),]
     GBIFrec <- GBIFrec[!zeroDecCheck(GBIFrec$decimalLatitude),]
     GBIFrec <- GBIFrec[!zeroDecCheck(GBIFrec$decimalLongitude),]
@@ -287,6 +289,8 @@ for(sp in atlChecklist$EschmeyerName){
                                                                     year, month, day,
                                                                     depth, depthAccuracy,
                                                                     basisOfRecord, issue)
+    source <- rep("GBIF", n=nrow(GBIFsynRec))
+    if(nrow(GBIFsynRec) > 0) GBIFsynRec <- cbind(GBIFsynRec,source)
     GBIFsynRec <- GBIFsynRec[!grepl("COORDINATE_ROUNDED", GBIFsynRec$issue),]
     GBIFsynRec <- GBIFsynRec[!zeroDecCheck(GBIFsynRec$decimalLatitude),]
     GBIFsynRec <- GBIFsynRec[!zeroDecCheck(GBIFsynRec$decimalLongitude),]
@@ -345,10 +349,12 @@ for(sp in atlChecklist$EschmeyerName){
                             "year", "month", "day", 
                             "depth", "depthAccuracy",
                             "basisOfRecord", "issue")]
+    source <- rep("OBIS", n=nrow(OBISrec))
+    if(nrow(OBISrec) > 0) OBISrec <- cbind(OBISrec,source)
     OBISrec <- OBISrec[!zeroDecCheck(OBISrec$decimalLatitude),]
     OBISrec <- OBISrec[!zeroDecCheck(OBISrec$decimalLongitude),]
   }
-    
+  
   AllRec <- rbind(GBIFrec, GBIFsynRec, OBISrec)
   AllRec$scientificName <- rep(sp, nrow(AllRec))
   
