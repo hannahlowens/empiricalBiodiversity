@@ -81,7 +81,7 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
   }
 }
 
-pdf(file = "occurrencePreview.pdf")
+pdf(file = "occurrencePreview_19Jan2020.pdf", paper = "a4")
 occs <- list.files(path = "data/MergedOccurrences/", pattern = ".csv", full.names = T)
 rawCounts <- vector(mode = "list", length = length(occs))
 occCounts <- vector(mode = "list", length = length(occs))
@@ -103,4 +103,4 @@ for (sp in occs){
 dev.off()
 
 postVisOccs <- cbind(stringr::str_extract(occs, pattern = "\\w*\\s\\w*"),rawCounts,occCounts, depthCounts)
-write.csv(postVisOccs, "data/postVisualizationOccurrenceCounts.csv", row.names = F)
+write.csv(postVisOccs, "data/postVisualizationOccurrenceCounts_19Jan2020.csv", row.names = F)

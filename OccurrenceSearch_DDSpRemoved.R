@@ -190,12 +190,21 @@ ggplot(data, aes(fill=Location, y=Count, x=Source)) +
 # Query GBIF for occurrence data ----
 atlChecklist <- read.csv("data/taxaWithinAreaOfInterest_curated8Jan.csv", stringsAsFactors = F)
 atlChecklist <- atlChecklist[atlChecklist$isAtlantic,]
+ddList <- read.csv("data/postVisualizationOccurrenceCounts_withNotes.csv")
+ddList <- ddList[!ddList$Remove.from.dataset == "T",]
+
 login <- GBIFLoginManager(user = "hannah0wens",
                           email = "hannah.owens@gmail.com",
                           pwd = "Llab7a3m!")
 
+inDDlist <- lapply(X = 1:nrow(atlChecklist), 
+                   FUN = function(x) any(atlChecklist$EschmeyerName[[x]] %in% ddList$X, 
+                                         atlChecklist$OBISChecklist[[x]] %in% ddList$X, 
+                                         atlChecklist$GBIFnames[[x]] %in% ddList$X))
+atlChecklist <- atlChecklist[unlist(inDDlist),]
 GBIFsearchList <- c(atlChecklist$GBIFnames, atlChecklist$GBIF.Synonym)
 GBIFsearchList <- unique(GBIFsearchList[!is.na(GBIFsearchList)])
+
 GBIFsearchList <- studyTaxonList(GBIFsearchList, datasources = "GBIF Backbone Taxonomy")
 
 myBridgeTreeObject <- occQuery(x = GBIFsearchList, GBIFLogin = login, datasources = "gbif", 
@@ -204,13 +213,21 @@ saveRDS(myBridgeTreeObject, file = "data/GBIFDownloads/myBridgeTreeObject")
 myBridgeTreeObject <- readRDS(file = "data/GBIFDownloads/myBridgeTreeObject")
 
 #Get and write citations
+myOccCitations <- occCitation(myBridgeTreeObject)
 sink("data/rawCitations.txt")
 print(myOccCitations)
 sink()
 
 # Query OBIS for occurrence data ----
-atlChecklist <- read.csv("data/taxaWithinAreaOfInterest.csv", stringsAsFactors = F)
+atlChecklist <- read.csv("data/taxaWithinAreaOfInterest_curated8Jan.csv", stringsAsFactors = F)
 atlChecklist <- atlChecklist[atlChecklist$isAtlantic,]
+ddList <- read.csv("data/postVisualizationOccurrenceCounts_withNotes.csv")
+ddList <- ddList[!ddList$Remove.from.dataset == "T",]
+inDDlist <- lapply(X = 1:nrow(atlChecklist), 
+                   FUN = function(x) any(atlChecklist$EschmeyerName[[x]] %in% ddList$X, 
+                                         atlChecklist$OBISChecklist[[x]] %in% ddList$X, 
+                                         atlChecklist$GBIFnames[[x]] %in% ddList$X))
+atlChecklist <- atlChecklist[inDDlist,]
 OBISsearchList <- c(atlChecklist$OBISChecklist)
 OBISsearchList <- unique(OBISsearchList[!is.na(OBISsearchList)])
 
@@ -250,8 +267,15 @@ zeroDecCheck <- function(x){
 # Get data
 gbifData <- readRDS(file = "data/GBIFDownloads/myBridgeTreeObject")
 obisData <- list.files(path = "data/OBISDownloads/", pattern = ".csv", full.names = T)
-atlChecklist <- read.csv("data/taxaWithinAreaOfInterest.csv", stringsAsFactors = F)
+atlChecklist <- read.csv("data/taxaWithinAreaOfInterest_curated8Jan.csv", stringsAsFactors = F)
 atlChecklist <- atlChecklist[atlChecklist$isAtlantic,]
+ddList <- read.csv("data/postVisualizationOccurrenceCounts_withNotes.csv")
+ddList <- ddList[!ddList$Remove.from.dataset == "T",]
+inDDlist <- lapply(X = 1:nrow(atlChecklist), 
+                   FUN = function(x) any(atlChecklist$EschmeyerName[[x]] %in% ddList$X, 
+                                         atlChecklist$OBISChecklist[[x]] %in% ddList$X, 
+                                         atlChecklist$GBIFnames[[x]] %in% ddList$X))
+atlChecklist <- atlChecklist[unlist(inDDlist),]
 
 # Merging datasets and doing some preliminary cleaning
 for(sp in atlChecklist$EschmeyerName){
@@ -284,7 +308,7 @@ for(sp in atlChecklist$EschmeyerName){
   if(!is.na(spGBIFSyn)){
     spGBIFSyn <- gbifData@cleanedTaxonomy$`Best Match`[match(spGBIFSyn, gbifData@cleanedTaxonomy$`Input Name`)]
     GBIFsynRec <- gbifData@occResults[[match(spGBIFsyn, names(gbifData@occResults))]]$GBIF$RawOccurrences
-    GBIFsynRec <- occ_download_import(GBIFsynRec, , 
+    GBIFsynRec <- occ_download_import(GBIFsynRec, 
                                       path = GBIFsynRec[[1]]) %>% dplyr::select(scientificName, 
                                                                     decimalLatitude, decimalLongitude, 
                                                                     coordinateUncertaintyInMeters, 
