@@ -38,6 +38,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
+# Remove giant diagnostic atlases
+*.pdf
+
 # Remove private directories
 Administration/
 Papers/
